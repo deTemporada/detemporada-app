@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">deTemporada</string>
+    <string name="title_activity_main">deTemporada</string>
+    <string name="inici">Inici</string>
+    <string name="cerca">Cerca</string>
+    <string name="menu_setmanal">Menu setmanal</string>
+    <string name="llista_compra">Llista de la compra</string>
+    <string name="rebost">Rebost</string>
+    <string name="explora">Explora</string>
+    <string name="meves_receptes">Les meves receptes</string>
+
+    <string name="temporada">Temporada</string>
+    <string name="ara_es_temporada_de">Ara és temporada de…</string>
+
+    <string name="tria_producte">Tria un producte…</string>
+    <string name="afegir_element">Afegir element</string>
+    <string name="editar_element">Editar element</string>
+    <string name="afegir">Afegir</string>
+    <string name="editar">Editar</string>
+    <string name="esborrar">Esborrar</string>
+    <string name="desar">Desar</string>
+    <string name="afegir_recepta">Afegir recepta</string>
+    <string name="editar_recepta">Editar recepta</string>
+    <string name="guardar_recepta">Desar recepta</string>
+
+    <string name="afegir_element_personalitzat">Afegir element personalitzat</string>
+
+    <string name="producte">Producte</string>
+    <string name="recepta">Recepta</string>
+    <string name="receptes">Receptes</string>
+    <string name="dificultat">Dificutat:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="descripcio">Descripcio:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="preparacio">Preparació:</string>
+    <string name="temporalitat">Temporalitat:</string>
+
+    <string name="temporada_tot_lany">Aquest producte es pot trobar tot l\'any, ja sigui perquè no depèn de l\'estacionalitat o es conserva bé sense posar en cambres frigorífiques</string>
+    <string name="afegeix_ingredient">Afegeix Ingredient</string>
+    <string name="afegeix_pas">Afegeix Pas</string>
+
+    <string name="apat_dinar">Dinar</string>
+    <string name="apat_sopar">Sopar</string>
+    <string name="menu_nou_suggeriment">Nova recepta</string>
+    <string name="desfes">Desfès</string>
+
+    <string name="cercar">Cercar</string>
+    <string name="cercar_foto">Cercar amb foto</string>
+    <string name="filtrar">Filtrar</string>
+
+    <string name="hint_cerca_recepta">Escriu la teva cerca a la barra superior</string>
+    <string name="no_resultat_recepta">No s\'ha trobat cap recepta</string>
+    <string name="cap_recepta_preferida">Encara no has marcat cap recepta com a preferida</string>
+    <string name="no_receptes_usuari">Encara no has creat cap recepta. Pots afegir una recepta clicant el botó + de la barra superior.</string>
+    <string name="no_element_llista_compra">La teva llista de la compra és buida. Pots afegir un element clicant el botó + de la barra superior.</string>
+    <string name="no_receptes_llista_compra">Cap element de la teva llista de la compra está associat a una recepta. Quan afegeixis un element des d\'una recepta, aquesta apareixerà aquí.</string>
+    <string name="no_element_rebost">El teu rebost és buit. Pots afegir un element clicant el botó + de la barra superior.</string>
+
+    <string name="recepta_sense_nom">Recepta sense nom</string>
+    <string name="sense_nom">Sense nom</string>
+
+    <string name="clarifar_titol">Reconeixent productes…</string>
+    <string name="clarifai_error">S\'ha produït un error %d al connectar amb el servidor. Comprova que tens accès a internet i torna-ho a intentar.</string>
+    <string name="clarifai_senseresultats">No s\'ha reconegut cap producte, torna a provar-ho de més aprop i amb millors condicions de llum.</string>
+    <string name="cercar_receptes">Cercar receptes</string>
+    <string name="clarifai_nova_foto">Fer una altra foto</string>
+
+    <string name="star1description">1</string>
+    <string name="star2description">2</string>
+    <string name="star3description">3</string>
+    <string name="star4description">4</string>
+    <string name="star5description">5</string>
+
+    <string name="recepta_preferida">Recepta preferida</string>
+    <string name="recepta_a_menu">Recepta en un menu</string>
+
+    <string name="placeholder_url">https://ciaran.oreilly.cat/placeholder.png</string>
+    <string name="sharedpref_bbdd">BBDDInicialitzada</string>
+
+</resources>

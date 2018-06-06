@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="cat.detemporada.activities.MainActivity">
+
+    <include layout="@layout/toolbar" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_anchor="@+id/appBarLayout"
+        app:layout_anchorGravity="bottom|end"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:focusableInTouchMode="true">
+
+        <FrameLayout
+            android:id="@+id/frame_menu_dia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true" />
+        <TextView
+            android:id="@+id/text_productes_temporada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marge_gran"
+            android:textStyle="bold"
+            android:layout_below="@id/frame_menu_dia"
+            android:text="@string/ara_es_temporada_de"/>
+        <FrameLayout
+            android:id="@+id/frame_productes_temporada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_productes_temporada"/>
+
+    </RelativeLayout>
+    </android.support.v4.widget.NestedScrollView>
+    <FrameLayout
+        android:id="@+id/resultats_cerca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorFons"
+        android:visibility="gone"
+        android:focusableInTouchMode="true"
+        app:layout_anchor="@+id/appBarLayout"
+        app:layout_anchorGravity="bottom|end"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+    <FrameLayout
+        android:id="@+id/resultats_clarifai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorFons"
+        android:visibility="gone"
+        android:focusableInTouchMode="true"
+        app:layout_anchor="@+id/appBarLayout"
+        app:layout_anchorGravity="bottom|end"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+</android.support.design.widget.CoordinatorLayout>

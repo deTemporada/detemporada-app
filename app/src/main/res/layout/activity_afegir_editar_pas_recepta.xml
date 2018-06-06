@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="cat.detemporada.activities.AfegirEditarPasReceptaActivity">
+
+    <include layout="@layout/toolbar" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_margin="@dimen/marge_gran">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="true">
+            <android.support.v7.widget.AppCompatImageButton
+                android:id="@+id/pas_imatge"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_alignParentTop="true"
+                android:scaleType="centerCrop"
+                android:background="?android:selectableItemBackground"
+                android:src="@drawable/boto_afegir_imatge"
+                android:layout_marginBottom="@dimen/marge_gran"/>
+            <EditText
+                android:id="@+id/pas_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="3"
+                android:gravity="top"
+                android:hint="Passos a seguir"
+                android:layout_below="@id/pas_imatge"/>
+            <Button
+                android:id="@+id/boto_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/pas_text"
+                android:text="@string/desar"
+                android:layout_marginTop="@dimen/marge_gran"/>
+        </RelativeLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>

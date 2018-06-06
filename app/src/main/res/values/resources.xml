@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item
+        type="id"
+        name="position" />
+    <item
+        type="id"
+        name="open" />
+    <item
+        type="id"
+        name="object" />
+    <item
+        type="id"
+        name="viewid" />
+    <item
+        type="id"
+        name="esproducte" />
+    <item
+        type="id"
+        name="inclos" />
+    <item
+        type="id"
+        name="exclos" />
+    <item
+        type="id"
+        name="ingredient" />
+</resources>

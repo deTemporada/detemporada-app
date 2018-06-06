@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="marge_gran">16dp</dimen>
+    <dimen name="marge_mitja">10dp</dimen>
+    <dimen name="marge_petit">5dp</dimen>
+    <dimen name="text_titol">20sp</dimen>
+</resources>

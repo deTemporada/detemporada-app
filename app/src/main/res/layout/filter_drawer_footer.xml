@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:clickable="true">
+    <Button
+        android:id="@+id/filter_drawer_boto_aplica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aplica filtres"/>
+    <Button
+        android:id="@+id/filter_drawer_boto_esborra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Esborra filtres"/>
+
+</LinearLayout>

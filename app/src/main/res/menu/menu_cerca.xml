@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cerca"
+        android:icon="@drawable/ic_cerca"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/cercar"/>
+    <item
+        android:id="@+id/camera"
+        android:orderInCategory="200"
+        android:title="@string/cercar_foto"
+        android:icon="@drawable/ic_camera"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/filtres"
+        android:orderInCategory="300"
+        android:title="@string/filtrar"
+        android:icon="@drawable/ic_filter_empty"
+        app:showAsAction="always"/>
+</menu>

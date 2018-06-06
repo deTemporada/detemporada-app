@@ -1,0 +1,4339 @@
+{
+  "productes": [
+    {
+      "categoria": "Altres",
+      "nom": "Vainilla",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vanilla_6beans.JPG/800px-Vanilla_6beans.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Pera",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1221",
+          "inici": "0621"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pears_1_2017-12-27.jpg/1024px-Pears_1_2017-12-27.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "pear"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Bull negre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Butifarra_Negra.jpg/800px-Butifarra_Negra.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Cereals",
+      "nom": "Arròs",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Riso_parboiled.jpg/800px-Riso_parboiled.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "rice"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Taronja",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "1105"
+        },
+        {
+          "inici": "0101",
+          "fi": "0228"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Naranjas_%2816979181639%29.jpg/800px-Naranjas_%2816979181639%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "orange"
+    },
+    {
+      "categoria": "Fruits secs",
+      "nom": "Ametlla",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Almond_Nuts.jpg/1024px-Almond_Nuts.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "almond"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Pebre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Piper_nigrum_Dried_fruits_with_and_without_pericarp_-_Penja_Cameroun.jpg/1024px-Piper_nigrum_Dried_fruits_with_and_without_pericarp_-_Penja_Cameroun.jpg",
+      "descripcio": "El pebre negre o bo, dit també piment, és una espècia de gust coent. És el fruit dessecat del pebrer (Piper nigrum), de la família de les piperàcies, planta enfiladissa tropical originària de l'Índia i de Java. Es fa servir a escala mundial com a condiment general de diversos plats i embotits. ",
+      "nomClarifai": "pepper"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Bitxo",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brazilian_red_peppers_%2828150692560%29.jpg/1024px-Brazilian_red_peppers_%2828150692560%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "hot pepper"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Llorer",
+      "unitatDefecte": "u",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Laurier-spice.jpg/1024px-Laurier-spice.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "bay leaf"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Oli de sèsam",
+      "unitatDefecte": "ml",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sesame_oil.jpg",
+      "descripcio": "L'oli de sèsam és un oli vegetal comestible que deriva de les llavors de la planta de sèsam. Encara que al sud de l'Índia s'utilitza com a oli per cuinar és més freqüent el seu ús com aromatitzant en la cuina xinesa i coreana, i en menor mesura en la cuina del sud-est asiàtic. ",
+      "nomClarifai": "oil"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Ceba",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Onions.jpg/1024px-Onions.jpg",
+      "descripcio": "Originària de l'Àsia central, actualment la ceba és un dels ingredients indispensables de la cuina mediterrània. ",
+      "nomClarifai": "onion"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Calamar",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sotong_3.jpg/1024px-Sotong_3.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "calamari"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Llimona",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/1024px-Lemon.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "lemon"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Ruca",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rukola.JPG/1024px-Rukola.JPG",
+      "descripcio": "La ruca (Eruca sativa) és una espècie de planta amb flor dins la família brassicàcia. És una planta originària de la regió mediterrània; es troba com a planta silvestre i conreada. Objecte de recol·lecció silvestre des del temps dels romans com a mínim ha passat a ser conreada, ja que per influència de la cuina italiana el seu consum s'ha estès arreu del món. S'utilitza sobretot en amanida. Amb la pasta la ruca s'utilitza sobretot crua o poc cuinada, vessada amb la salsa calent damunt de la pasta abans de servir perquè no perdi gaire consistència.",
+      "nomClarifai": "arugula"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Tomàquet de pera",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "0930",
+          "inici": "0601"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tom%C3%A0quet_Pera.jpg/1024px-Tom%C3%A0quet_Pera.jpg",
+      "descripcio": "La tomata de pera, tomàquet de pera o tomàquet de la pera (Lycopersicon esculentum) és una varietat de tomata gran amb polpa carnosa, poc àcida, de forma esfèrica, aplanada i amb protuberàncies a la superfície. Es cultiva, entre altres llocs, al Baix Empordà. L'interior és compacte i pràcticament sense llavors. Té un sabor dolcenc i molt aromàtic que permet, un cop és ben madur, l'elaboració de salses i conserves.",
+      "nomClarifai": "tomato"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Pebre vermell dolç",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Spanishsmokedpaprika.jpg/1024px-Spanishsmokedpaprika.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "sweet pepper"
+    },
+    {
+      "categoria": "Fruits secs",
+      "nom": "Festuc",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Blanched_pistachios.jpg/1024px-Blanched_pistachios.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "pistachio"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Gamba de Palamós",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gambadenia.JPG/800px-Gambadenia.JPG",
+      "descripcio": "La Gamba de Palamós és un crustaci de l'espècie Aristeus antennatus. Presenta un color vermell molt intens i és apreciada per la seva carn fina, ferma i saborosa. És pescada amb la tècnica de l'arrossegament i a l'estiu se solen trobar més exemplars i més grans.",
+      "nomClarifai": "shrimp"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Pebrots del piquillo",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1128",
+          "inici": "0228"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pimiento_piquillo.jpg/1024px-Pimiento_piquillo.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "pepper"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Farina",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/All-Purpose_Flour_%284107895947%29.jpg/1024px-All-Purpose_Flour_%284107895947%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "flour"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Mel",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/7/76/Honey_%2816759909410%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "honey"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Llard",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Homelard.jpg/1024px-Homelard.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "lard"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Farigola",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Thymus_vulgaris3.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "thyme"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Sucre morè",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Raw_cane_sugar_Demerara.JPG/1024px-Raw_cane_sugar_Demerara.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Alvocat",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nice_Avocados.jpg/800px-Nice_Avocados.jpg",
+      "descripcio": "La principal utilització és la culinària, en amanides, entrepans i altres preparacions, com guacamole mexicà, batuts o gelats. Es pot menjar sol sense amanir, o amanint-lo amb oli i sal o bé amb sal i suc de llimona. ",
+      "nomClarifai": "avocado"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Romaní",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rosemary_bush.jpg/1024px-Rosemary_bush.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "rosemary"
+    },
+    {
+      "categoria": "Fruits secs",
+      "nom": "Avellana",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/7/72/Avellanes_d%27Alcover.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "hazelnut"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Pebrot vermell",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1128",
+          "inici": "0528"
+        }
+      ],
+      "imatge": "https://farm2.staticflickr.com/1212/1317165420_d50501bc3a_b_d.jpg",
+      "descripcio": "El pebrot vermell o pebrot morrón, que en realitat en alguns països es consumeix també en fases de maduració menys completes, amb la qual cosa es presenta en taronja, groc o verd. La seva carn és més gruixuda i dura que la del pebrot tendre verd. S'utilitza molt escalivat. Amb aquest pebrot es fa el pebre roig dolç i picant.",
+      "nomClarifai": "pepper"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Canana",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Todarodes_sagittatus.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "cuttlefish"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Vinagre",
+      "unitatDefecte": "ml",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Essig-1.jpg/800px-Essig-1.jpg",
+      "descripcio": "El vinagre és un líquid miscible obtingut mitjançant fermentació acètica del vi i dels seus subproductes com la brisa. També pot procedir d'altres productes similars com la sidra i el malt. ",
+      "nomClarifai": "vinegar"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Comí",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cumin-spice.jpg/1024px-Cumin-spice.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "cumin"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Poma",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1221",
+          "inici": "0621"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/600px-Apples.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "apple"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Gamba",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gambadenia.JPG/800px-Gambadenia.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "prawn"
+    },
+    {
+      "categoria": "Fruits secs",
+      "nom": "Nou",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Noix_p1040229.jpg/1024px-Noix_p1040229.jpg",
+      "descripcio": "Les nous o anous destaquen pel seu contingut en olis vegetals poliinsaturats. Són una bona font de vitamina E i calci, aporten també una petita quantitat de vitamina C i B, i zinc.",
+      "nomClarifai": "walnut"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Patata",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0505"
+        },
+        {
+          "inici": "0101",
+          "fi": "0321"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kartoffeln_Markt.jpg/800px-Kartoffeln_Markt.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "potato"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Tomàquet",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0621"
+        },
+        {
+          "fi": "0112",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tomate_2008-2-20.JPG/1024px-Tomate_2008-2-20.JPG",
+      "descripcio": "És de color vermell, carnós i sucós, amb la superfície llisa i brillant i la polpa plena de llavors planes i groguenques. Molt utilitzat en l'alimentació.",
+      "nomClarifai": "tomato"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Mantega",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beurre_d%27Isigny_2.jpg/1024px-Beurre_d%27Isigny_2.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "butter"
+    },
+    {
+      "categoria": "Carn",
+      "nom": "Pollastre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ayam_kampung_free_range_chicken_meat_Indonesia.JPG/1024px-Ayam_kampung_free_range_chicken_meat_Indonesia.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "chicken"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Menta",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mint_leaves.jpg/1024px-Mint_leaves.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "mint"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Sèpia",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://get.pxhere.com/photo/food-seafood-fresh-market-fish-squid-invertebrate-portugal-lisbon-molluscs-cephalopod-marine-invertebrates-animal-source-foods-1172204.jpg",
+      "descripcio": "La sèpia es troba entre les espècies comestibles, pescades sobretot a la zona mediterrània. És un element essencial en la preparació de la paella a certes zones de Catalunya i de vegades es pot afegir al suquet de peix i a la sarsuela. Menja petits crustacis i llagostes i altres animals microscòpics. ",
+      "nomClarifai": "cuttlefish"
+    },
+    {
+      "categoria": "Llegums",
+      "nom": "Mongeta seca",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Phaseolus_vulgaris_white_beans%2C_witte_boon.jpg/1024px-Phaseolus_vulgaris_white_beans%2C_witte_boon.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "beans"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Poma de Girona",
+      "unitatDefecte": "u",
+      "temporades": [
+        {
+          "fi": "1031",
+          "inici": "0801"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poma_de_Girona_2.jpg/800px-Poma_de_Girona_2.jpg",
+      "descripcio": "Poma de Girona és una indicació geogràfica protegida (IGP) per a les pomes produïdes als termes municipals de les comarques catalanes de la Selva, el Baix Empordà i l'Alt Empordà, el Gironès i el Pla de l'Estany.",
+      "nomClarifai": "apple"
+    },
+    {
+      "categoria": "Làctics",
+      "nom": "Llet",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://www.maxpixel.net/static/photo/1x/Nutrition-Calcium-White-Pour-Milk-Drink-Cup-2762737.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "milk"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Anís",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aniseed_p1160018.jpg/1024px-Aniseed_p1160018.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "anise"
+    },
+    {
+      "categoria": "Carn",
+      "nom": "Botifarra dolça",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Botifarra_dol%C3%A7a_1.jpg/1024px-Botifarra_dol%C3%A7a_1.jpg",
+      "descripcio": "La botifarra dolça és un embotit característic de l'Empordà. Tant es pot presentar crua com seca. Per elaborar la botifarra dolça es fa servir: carn magra crua de porc, sucre, pell de llimona, sal i opcionalment canyella. En resulta una botifarra de color rosat i molt lluent quan és crua, i un color rosat-grisós quan es deixa assecar.",
+      "nomClarifai": "sausage"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Cep",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Boletus_edulis_EtgHollande_041031_091.jpg/1024px-Boletus_edulis_EtgHollande_041031_091.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "mushroom"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Safrà",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg/1024px-Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg",
+      "descripcio": "El safrà s'utilitza sobretot a la gastronomia, afegint-se en petites dosis com a condiment i colorant. A la cuina catalana medieval ja era una de les espècies més populars, l'única que no era importada i la més utilitzada tant al Libre de Sent Soví com al Llibre del Coch. Des d'aleshores s'utilitza com a condiment habitual de les picades i per a donar color a plats salats; típicament als arrossos i paelles, pastes tradicionals (com els fideus a la cassola, per exemple) i guisats; com a preparacions dolces; en especial cremes i diverses postres de cullera, o també per a altres preparacions (pans de pessic, gelats, etc.) de llimona, que serien blancs altrament.",
+      "nomClarifai": "saffron"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Bacallà",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gadus_morhua-idlm2006.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "fish"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Sucre",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/White_cane_sugar.JPG/1280px-White_cane_sugar.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "sugar"
+    },
+    {
+      "categoria": "Carn",
+      "nom": "Xoriço",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Chourizos_de_Mosteiro_%2816933302366%29.jpg/1024px-Chourizos_de_Mosteiro_%2816933302366%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Pastanaga",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Carrots.JPG/1024px-Carrots.JPG",
+      "descripcio": "La pastanaga és una planta biennal conreada com anual de la qual es consumeix l'arrel. Les pastanagues silvestres són plantes autòctones i molt comunes als països de la Mediterrània. Conreades des de l'antiguitat, els holandesos al segle XVII en seleccionaren les varietats de color ataronjat i vermellós (abans eren negres o violades). ",
+      "nomClarifai": "carrot"
+    },
+    {
+      "categoria": "Carn",
+      "nom": "Botifarra",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Butifarra_dol%C3%A7a_2.jpg/1024px-Butifarra_dol%C3%A7a_2.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Coriandre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coriander.png/1024px-Coriander.png",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "coriander"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Porro",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/8/81/Poireaux.JPG",
+      "descripcio": "Els porros es poden menjar crus en amanida quan la planta és tendra. És més habitual consumir-los cuits ja siguin bullits o fregits, essent ideals per acompanyar carns i peixos. Amb els porros també es poden preparar plats gratinats amb beixamel, en quiche o en escalivada. ",
+      "nomClarifai": "leek"
+    },
+    {
+      "categoria": "Làctics",
+      "nom": "Recuit de drap",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Recuit_de_Drap_1.jpg",
+      "descripcio": "El recuit de drap és un tipus de formatge fresc de pasta tova escorreguda. El de drap és embolcallat amb un drap de cel·lulosa. Presenta un color blanc lletós brillant, de textura tova i cremosa, sabor fresc, dolç i lletós. Elaborat amb llets pasteuritzades. Es menja per postres acompanyat de mel o sucre.",
+      "nomClarifai": "ricotta"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Ou",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eggs_173.jpg/1024px-Eggs_173.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "egg"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Col",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CabbageBG.JPG/1024px-CabbageBG.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "cabbage"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Galera",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Squilla_mantis_%28l%27Ametlla%29_brighter_and_quality.jpg/1024px-Squilla_mantis_%28l%27Ametlla%29_brighter_and_quality.jpg",
+      "descripcio": "La galera, galiota o gamba imperial (Squilla mantis) és un crustaci de l'ordre dels estomatòpodes, de la família dels esquíl·lids, d'un color groguenc i cos deprimit, amb el segon parell de maxil·lípedes molt desenvolupat i acabat amb un artell en forma d'ungla prensora i dentada. ",
+      "nomClarifai": "shrimp"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Oli d'oliva",
+      "unitatDefecte": "ml",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oli_de_l%27Empord%C3%A0.jpg/800px-Oli_de_l%27Empord%C3%A0.jpg",
+      "descripcio": "L'oli d'oliva és un oli vegetal a partir del suc de l'oliva, el fruit de l'olivera. ",
+      "nomClarifai": "olive oil"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "All",
+      "unitatDefecte": "u",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Garlic.jpg/1024px-Garlic.jpg",
+      "descripcio": "L'all, l'all roig, el gra (Allium sativum) és una hortalissa de la família de les liliàcies. Té un bulb arrodonit i comestible, anomenat cabeça, compost de nombroses unitats, anomenades grans. Es troba al mercat durant tot l'any, ja que floreix entre finals de la primavera i començaments d'estiu. La resistència que presenta el fruit, fa que es conservi en perfecte estat durant molt de temps un cop recol·lectat i guardat en un lloc fresc. ",
+      "nomClarifai": "garlic"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Lluç",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fish_-_Mercato_Orientale_-_Genoa%2C_Italy_-_DSC02485.JPG/1024px-Fish_-_Mercato_Orientale_-_Genoa%2C_Italy_-_DSC02485.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "fish"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Pèsol",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "1128"
+        },
+        {
+          "fi": "0621",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Green_peas_8928.jpg/1024px-Green_peas_8928.jpg",
+      "descripcio": "El pèsol o pesolera (Pisum sativum) és una planta de la família de les lleguminoses o fabàcies. Pèsol és un nom que s'aplica tant a la planta com a la seva llavor, que és comestible. És un dels conreus més antics d'Europa, amb més de 5.000 anys d'antiguitat. Es creu que com a conreu va aparèixer a Orient poc després del blat. Abans es menjava com a gra sec i en forma de puré. Ara els grans verds i tendres dels pèsols constitueixen una de les verdures més populars sols, com acompanyament o en truita. ",
+      "nomClarifai": "pea"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Sal",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Korean_sea_salt.jpg",
+      "descripcio": "La sal comuna o sal de cuina, coneguda comunament com a sal, és un condiment o additiu alimentari format principalment per una sal, el clorur de sodi, la fórmula química del qual és NaCl. Altres denominacions sovint usades són sal marina (quan prové del mar), sal fina o sal de taula (quan és refinada i reduïda a pols), o sal gruixuda o grossa, de gra menys fi, per al seu ús principalment culinari.[",
+      "nomClarifai": "salt"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Cranc",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arge_edible_crab.jpg/1024px-Arge_edible_crab.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "crab"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Cogombre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1105",
+          "inici": "0321"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/101_-_CIMG0889.jpg/1024px-101_-_CIMG0889.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "cucumber"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Pebre vermell picant",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Paprikagew%C3%BCrz_20090502_001.JPG/1024px-Paprikagew%C3%BCrz_20090502_001.JPG",
+      "descripcio": "El pebre vermell, pebre roig o pebre bord (Balears) és un condiment en forma de pols vermell derivat de la moltura de diferents varietats de bitxo, el fruit de la pebrotera. S'empra per a condiment de diferents plats i d'embotits.",
+      "nomClarifai": "hot pepper"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Canyella",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Canelle_Cinnamomum_burmannii_Luc_Viatour.jpg/1024px-Canelle_Cinnamomum_burmannii_Luc_Viatour.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "cinnamon"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Escarola",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0921"
+        },
+        {
+          "inici": "0101",
+          "fi": "0621"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chicoree_frisee.jpg/1024px-Chicoree_frisee.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "endive"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Api",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0921"
+        },
+        {
+          "inici": "0101",
+          "fi": "0505"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Au_march%C3%A9_-_c%C3%A9leri_en_branches.JPG/1024px-Au_march%C3%A9_-_c%C3%A9leri_en_branches.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "celery"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Nyora",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1128",
+          "inici": "0528"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Noras.jpg/1024px-Noras.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "pepper"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Carxofa",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "1128"
+        },
+        {
+          "fi": "0505",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/-_Carciofi_-.jpg/1024px--_Carciofi_-.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "artichoke"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Rap",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/3/30/Monkfish.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "fish"
+    },
+    {
+      "categoria": "Peix",
+      "nom": "Sardina",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sardin_from_sardegna_1.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "sardine"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Mango",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%22Aesthetic_Mango%22.jpg/800px-%22Aesthetic_Mango%22.jpg",
+      "descripcio": "Els mangos es fan servir molt a la cuina en chutneys, athanu, adobats en vinagre o bé menjats crus amb sal, bitxo (chili) o salsa de soia. Una beguda feta amb mango que és molt popular a Àsia es fa mesclant mangos madurs o polpa de mango mantega i sucre. També se'n fan curris Del mango se'n fan sucs, gelats i altres preparacions. ",
+      "nomClarifai": "mango"
+    },
+    {
+      "categoria": "Altres",
+      "nom": "Julivert",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Petroselinum_crispum_003.JPG/1024px-Petroselinum_crispum_003.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "parsley"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Albergínia",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1128",
+          "inici": "0621"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/4/47/Melanzani_z01.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "eggplant"
+    },
+    {
+      "categoria": "Carn",
+      "nom": "Pernil salat",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1231",
+          "inici": "0101"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Paletilla_de_Jabugo_%285177757873%29.jpg/1024px-Paletilla_de_Jabugo_%285177757873%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "ham"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Pebrot verd",
+      "unitatDefecte": "kg",
+      "temporades": [
+        {
+          "fi": "1128",
+          "inici": "0528"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Capsicum_baccatum.jpg/1024px-Capsicum_baccatum.jpg",
+      "descripcio": "Als Països Catalans, i a d'altres també, com per exemple Itàlia, el pebrot de carn gruixuda i més aviat rodó, que existeix en molts colors: grocs, taronja, vermell, fosc, verd fosc, etc. només s'utilitza en vermell (vegeu pebre vermell). En canvi, el conegut popularment com a \"pebrot verd\" és un altre, més allargat, de carn fina i color verd clar, també conegut com a pebrot tendre. Es cultiva a Mallorca. S'usa de vegades als sofregits, trinxat i cuit amb la ceba, o es poden menjar a la brasa o fregits, per exemple com a acompanyament, a la samfaina, al trempó i a les sopes mallorquines, per exemple. ",
+      "nomClarifai": "green pepper"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Nespre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0621",
+          "inici": "0505"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eriobotrya_japonica_JPG1b.jpg/1280px-Eriobotrya_japonica_JPG1b.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Maduixot",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0805",
+          "inici": "0505"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fragaria_%C3%97_ananassa.JPG/1024px-Fragaria_%C3%97_ananassa.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "strawberry"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Albercoc",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0921",
+          "inici": "0505"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Apricots.jpg/1024px-Apricots.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "apricot"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Préssec",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1105",
+          "inici": "0505"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Oszibarack_01.jpg/800px-Oszibarack_01.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "peach"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Pruna",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1128",
+          "inici": "0321"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bluebyrd_plum_%281%29.jpg/800px-Bluebyrd_plum_%281%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "prune"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Maduixa",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0828",
+          "inici": "0228"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Strawberry3500px.jpg/1280px-Strawberry3500px.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "strawberry"
+    },
+    {
+      "categoria": "Fruita",
+      "nom": "Cirera",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0805",
+          "inici": "0321"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cherries_2.jpg/1280px-Cherries_2.jpg",
+      "descripcio": "Cirera, també conegut com a guinda, és el fruit de diverses espècies arbòries del gènere Prunus, encara que comercialment s'aprofiti un nombre limitat d'espècies. A l'arbre se'l coneix com cirerer o guinder. Encara que tots els cirerers són del gènere Prunus, a aquest pertanyen espècies que no ho són, com ara el pruner, l'ametller, l'albercoquer i el presseguer. La cirera és una fruita rica en vitamines A, B, C, I, K i PP, en ferro, calci, magnesi, potassi i sofre.",
+      "nomClarifai": "cherry"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "All tendre",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0805",
+          "inici": "0101"
+        },
+        {
+          "fi": "1231",
+          "inici": "1128"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/GreenGarlic.png/512px-GreenGarlic.png",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": ""
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Espinac",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "0805",
+          "inici": "0101"
+        },
+        {
+          "fi": "1231",
+          "inici": "0921"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pseudoperonospora_farinosa_f.sp._spinaciae_at_Spinacia_oleracea_%288%29.jpg/1280px-Pseudoperonospora_farinosa_f.sp._spinaciae_at_Spinacia_oleracea_%288%29.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "nomClarifai": "spinach"
+    },
+    {
+      "categoria": "Verdura",
+      "nom": "Carbassó",
+      "unitatDefecte": "g",
+      "temporades": [
+        {
+          "fi": "1221",
+          "inici": "0321"
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Courgettes_%287232533258%29.jpg/1280px-Courgettes_%287232533258%29.jpg",
+      "descripcio": "El carabassó o carabasseta és una verdura, el fruit de la Cucurbita pepo, una planta anual herbàcia de la família de les cucurbitàcies. És originària d'Amèrica on era un dels principals conreus dels pobles indígenes precolombins. Actualment ha passat a formar part de la cuina mediterrània. ",
+      "nomClarifai": "zucchini"
+    }
+  ],
+  "receptes": [
+    {
+      "categoria": "Primer",
+      "nom": "Albergínia farcida d'arròs de verdures",
+      "preparacio": [
+        {
+          "imatge": "",
+          "pas": "Partim les albergínies per la meitat i les posem a gratinar amb un raig d'oli durant uns 20 minuts. Quan la carn es tendra les buidem."
+        },
+        {
+          "imatge": "",
+          "pas": "Sofregim els alls tendres tallats a rodanxes petites i hi afegim les verdures per ordre de cocció. Quan les verdures estan ben sofregides afegim tomàquet tallat a la concassé, salem el conjunt i afegim l'arròs. Ho cobrim amb el brou fosc de pollastre i ho deixem coure uns 15 minuts."
+        },
+        {
+          "imatge": "",
+          "pas": "Per acabar, farcim l'albergínia amb l'arròs."
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "250",
+          "nom": "Arròs de Pals",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Albergínies",
+          "producte": "Albergínia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Pastanaga",
+          "producte": "Pastanaga",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Pebrot verd",
+          "producte": "Pebrot verd",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Pebrot vermell",
+          "producte": "Pebrot vermell",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Xampinyons",
+          "producte": "Xampinyó",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Brou fosc de pollastre",
+          "producte": "Brou de pollastre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Tomàquet concassat",
+          "producte": "Tomàquet",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "6",
+          "nom": "Alls tendres",
+          "producte": "All tendre",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Alberginia_farcida_d%27arr%C3%B2s_de_verdures",
+      "dificultat": "Baixa",
+      "temps": "20",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Alberginia_farcida_d%27arr%C3%B2s_de_verdures.jpg/1024px-Alberginia_farcida_d%27arr%C3%B2s_de_verdures.jpg",
+      "descripcio": "L'albergínia farcida d'arròs de verdures és una recepta d'arròs de verdures servit dins la pell de l'albergínia.",
+      "valoracio": 3.8,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Amanida catalana",
+      "preparacio": [
+        {
+          "imatge": "",
+          "pas": "Primer de tot s’ha de tallar l’enciam a trossos. Els tomàquets, el pebrot i la ceba a rodanxes, en forma d’anells. Posem l'enciam en una plata, seguidament els altres ingredientsi per acabar de decorar el plat posarem els ous durs tallats per la meitat i l’embotit. Normalment l’embotit típic es la botifarra blanca i la negra, però a més s’hi pot afegir-hi altres com pernil salat o dolç, fuet, llonganissa, etc. També hi podem posar formatge a rodanxes, olives, anxoves i/o tonyina, tot depèn dels gustos del consumidor. Només queda amanir-ho i servir."
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "1",
+          "nom": "Enciam",
+          "producte": "Enciam",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Tomàquets",
+          "producte": "Tomàquet",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pebrot vermell",
+          "producte": "Pebrot vermell",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Embotit",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "2",
+          "nom": "Ous durs",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Vinagre",
+          "producte": "Vinagre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Amanida_catalana",
+      "dificultat": "Baixa",
+      "temps": "15",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amanida_catalana_%28cropped%29.jpg/800px-Amanida_catalana_%28cropped%29.jpg",
+      "descripcio": "La amanida catalana, també anomenada ensalada valenciana, és un plat típic de la cuina catalana. ",
+      "valoracio": 4.6,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Amanida d'arròs, gambes i fruita",
+      "preparacio": [
+        {
+          "pas": "En primer lloc, coem l'arròs amb una mica de sal i oli; un cop fer l'escorrem i refredemm.",
+          "imatge": ""
+        },
+        {
+          "pas": "En segon terme, saltem les gambes amb oli d’oliva. Quan estiguin saltades, les pelem i extreiem el suc dels caps, el qual posem en un bol amb sal, vinagre i oli d’oliva. Barregem bé aquesta mescla i hi posem una mica de julivert picat.",
+          "imatge": ""
+        },
+        {
+          "pas": "Per altra banda, pelarem i tallarem a daus el tomàquet, els pebrots, la carrota, la poma i els xampinyons; ho sofregim a foc lent.",
+          "imatge": ""
+        },
+        {
+          "pas": "Seguidament, pelem la poma de Girona i la tallem a daus. Afegim tots els ingredients anteriors dins el bol i ho barregem.",
+          "imatge": ""
+        },
+        {
+          "pas": "Al final, a l'hora d'emplatar, posem la salsa de marisc per sobre de la barreja que hem dut a terme i la decorem amb julivert, nous i crostons de pa fregit.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "250",
+          "nom": "Arròs de Pals",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "18",
+          "nom": "Gambes de Palamós",
+          "producte": "Gamba de Palamós",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Xampinyons",
+          "producte": "Xampinyó",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Poma de Girona",
+          "producte": "Poma de Girona",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Tomàquet de pera",
+          "producte": "Tomàquet de pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pebrot vermell",
+          "producte": "Pebrot vermell",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pebrot verd",
+          "producte": "Pebrot verd",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pastanaga",
+          "producte": "Pastanaga",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "8",
+          "nom": "Nous",
+          "producte": "Nou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Vinagre",
+          "producte": "Vinagre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0",
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Amanida_d%27arr%C3%B2s,_gambes_i_fruita",
+      "dificultat": "Baixa",
+      "temps": "45",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Amanida_d%27arr%C3%B2s_gambes_i_fruita_%281%29.jpg/800px-Amanida_d%27arr%C3%B2s_gambes_i_fruita_%281%29.jpg",
+      "descripcio": "L'Amanida d'arròs, gambes i fruita és un plat que pot ésser presentat com a primer àpat. Consta d'una amanida d'arròs la qual conté gambes, fruits de l'hort, fruits secs i poma, i amanit amb una vinagreta de marisc. ",
+      "valoracio": 4.6,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Amanida de mar i muntanya",
+      "preparacio": [
+        {
+          "pas": "Pelem les gambes, separem caps i cues. Fem un oli confitant els caps de les gambes. Tallem a daus 1cm x 1cm l'alvocat i el mango. Saltem la botifarra dolça a rodelles. Col·loquem el recuit en un sifó. I finalment coem el vinagre de Mòdena i la glucosa, reduint-los fins a tenir un xarop.",
+          "imatge": ""
+        },
+        {
+          "pas": "Per realitzar l'emplatat fem una base de ruca, damunt hi posem el mango, l'alvocat, les gambes, els festucs picats, la sèpia i la botifarra dolça. Ho condimentem amb l'oli de sèsam, oli d'oliva i pebre vermell. Ho acompanyem amb una escuma de recuit. I finalment ho decorem amb la reducció de vinagre de Mòdena. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "1",
+          "nom": "Sèpia",
+          "producte": "Sèpia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Mango",
+          "producte": "Mango",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Alvocat",
+          "producte": "Alvocat",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "17",
+          "nom": "Gambes de Palamós",
+          "producte": "Gamba de Palamós",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "300",
+          "nom": "Ruca",
+          "producte": "Ruca",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli de sèsam",
+          "producte": "Oli de sèsam",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "2",
+          "nom": "Recuit de drap",
+          "producte": "Recuit de drap",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "4",
+          "nom": "Botifarra dolça",
+          "producte": "Botifarra dolça",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Festucs verds pelats",
+          "producte": "Festuc",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "100",
+          "nom": "Vinagre de Mòdena",
+          "producte": "Vinagre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "60",
+          "nom": "Glucosa líquida",
+          "producte": "Glucosa líquida",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre vermell picant",
+          "producte": "Pebre vermell picant",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'olivpra",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Amanida_de_mar_i_muntanya",
+      "dificultat": "Baixa",
+      "temps": "40",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amanida_de_mar_i_muntanya.jpg/800px-Amanida_de_mar_i_muntanya.jpg",
+      "descripcio": "L'amanida de mar i muntanya és una amanida senzilla i moderna que agafa elements de la gastronomia de l'Empordà.",
+      "valoracio": 3.8,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Arròs a banda",
+      "preparacio": [
+        {
+          "pas": "En primer lloc posem tot el peix en una olla amb la ceba, el llorer i el litre i mig d'aigua. Salem i deixem bullir en una olla durant uns 20 minuts. Després, treiem el peix i ho rebutgem. Ens quedem amb el brou sobrant, més o menys equivalent a un litre d'aigua. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Per altra banda, piquem l'all, el safrà i una mica de sal. Barregem el resultat amb mig gotet del brou que hem apartat amb anterioritat. A continuació, agafem la paella i li afegim un rajolí d'oli. Afegim el tomàquet i la picada d'alls que hem fet abans. Deixem coure uns minuts i afegim l'arròs. Sofregim l'arròs durant uns instants amb la resta d'ingredients que hi ha en la paella. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Quan tinguem avançat el sofregit, llavors abocarem la resta del brou de peix bullint i courem a foc fort 5 minuts. Baixem el foc i ho deixem uns altres 15 minuts bullint. Deixem reposar l'arròs uns minuts i ja podrem servir. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "500",
+          "nom": "Arròs",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "500",
+          "nom": "Cranc",
+          "producte": "Cranc",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "500",
+          "nom": "Galera",
+          "producte": "Galera",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Llorer (Fulla)",
+          "producte": "Llorer",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre dolç",
+          "producte": "Pebre dolç",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "20",
+          "nom": "Tomàquet fregit",
+          "producte": "Tomàquet",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Safrà",
+          "producte": "Safrà",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1.5",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "l"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Arr%C3%B2s_a_banda",
+      "dificultat": "Mitjana",
+      "temps": "60",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Arroz_a_banda.jpg/800px-Arroz_a_banda.jpg",
+      "descripcio": "Larròs a banda és un plat de pescadors i, com la major part dels productes de la cuina de les comarques del centre i sud del País Valencià, d'origen humil. Aquest arròs no necessita dels peixos de preu, no rebutja els quals són pròdigs en espines, ni amb agullons o protuberàncies còrnies, Com el seu nom indica, l'arròs i el peix es couen a part, \"a banda\".",
+      "valoracio": 4.4,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Arròs caldós de bacallà i pèsols",
+      "preparacio": [
+        {
+          "pas": "Pel que fa al sofregit, en una cassola de fang amb oli sofregim la ceba, el pebrot tallat i l'all, i els deixem daurar. Tot seguit afegim el tomàquet ratllat, una mica de sal i un polsim de sucre, i també ho deixem daurar.",
+          "imatge": ""
+        },
+        {
+          "pas": "El segon pas és preparar el fumet. Aquest es fa posant els caps de lluç, el porro i les cebes en una olla amb una mica de oli. Quan estigui començant a daurar-se, afegirem l'aigua i la deixarem bullir uns 18-20 minuts. Separarem els caps de lluç, el porro i la ceba amb un colador, obtenint el fumet desitjat. ",
+          "imatge": ""
+        },
+        {
+          "pas": "En tercer lloc, per a fer l'arròs, aquest es posarà a la cassola de terrissa del sofregit i el deixarem coure juntament amb l'all, el pebrot, la ceba i el tomàquet. El deixarem fer poc a poc, i anirem afegint progressivament el fumet, deixant-lo fer 20-25 minuts. En l'últim tram hi posarem el bacallà perquè es faci amb la resta del plat.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "250",
+          "nom": "Arròs",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Pèsols",
+          "producte": "Pèsol",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Tomàquet madur",
+          "producte": "Tomàquet",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pebrot verd",
+          "producte": "Pebrot verd",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Caps de lluç",
+          "producte": "Lluç",
+          "unitat": "kg"
+        },
+        {
+          "quantitat": "500",
+          "nom": "Bacallà",
+          "producte": "Bacallà",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Safrà",
+          "producte": "Safrà",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Porro",
+          "producte": "Porro",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Arr%C3%B2s_cald%C3%B3s_de_bacall%C3%A0_i_p%C3%A8sols",
+      "dificultat": "Baixa",
+      "temps": "75",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arr%C3%B2s_cald%C3%B3s_amb_bacall%C3%A0_i_p%C3%A8sols_presentaci%C3%B3.jpg/800px-Arr%C3%B2s_cald%C3%B3s_amb_bacall%C3%A0_i_p%C3%A8sols_presentaci%C3%B3.jpg",
+      "descripcio": "L'arròs caldós de bacallà i pèsols de l'Empordà és un plat basat en el gran sabor dels ingredients locals, en especial l'arròs de Pals i la ceba de Figueres. ",
+      "valoracio": 4,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Arròs de Pals amb pollastre i poma",
+      "preparacio": [
+        {
+          "pas": "Pelem una poma i la tallem a rodelles de 3-4 mm i les fiquem a coure en almívar (20 min.).",
+          "imatge": ""
+        },
+        {
+          "pas": "    Quan estigui cuita la retirem, l'eixuguem i fem un cruixent que triturarem per decorar",
+          "imatge": ""
+        },
+        {
+          "pas": "Tallem 1-2 cebes i un gra d'all tallat a la brunoise, ho sofregim i afegim mitja poma triturada i una reducció de vi blanc.",
+          "imatge": ""
+        },
+        {
+          "pas": "Afegim el pollastre i quan està cuit, l'arròs. Mullem amb un brou d'au aromatitzat amb poma.",
+          "imatge": ""
+        },
+        {
+          "pas": "Emplatem en forma de timbal, per sobre afegim el pollastre, el cruixent i les flors de romaní.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "300",
+          "nom": "Arròs de Pals",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Pollastre de l'Empordà",
+          "producte": "Pollastre de l'Empordà",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Poma",
+          "producte": "Poma",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Vi",
+          "producte": "Vi",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Romaní",
+          "producte": "Romaní",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Arr%C3%B2s_de_Pals_amb_pollastre_i_poma",
+      "dificultat": "Baixa",
+      "temps": "45",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arr%C3%B2s_de_Pals_amb_pollastre_i_poma.jpg/800px-Arr%C3%B2s_de_Pals_amb_pollastre_i_poma.jpg",
+      "descripcio": "L'Arròs de Pals amb pollastre i poma és una d'arròs a la cassola realitzat amb productes de l'Empordà sobretot amb l'arròs de Pals i amb el toc original del cruixent de pomes de Gironabasat en el gran sabor dels ingredients locals, en especial l'arròs de Pals i la ceba de Figueres.",
+      "valoracio": 3.3,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Arròs negre amb calamars i gambes",
+      "preparacio": [
+        {
+          "pas": "Comencem realitzat el caldo amb els caps de peix i dos litres d'aigua. A la paella fregim amb oli d'oliva els alls laminats, seguidament afegim els calamars tallats petits. A continuació hi afegim la tomata fregida, després hi tirem l'arròs de Pals i ho ofeguem uns minuts. Per després posar-hi el caldo de peix molt calent. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Als cinc minuts hi afegim la tinta i el rectifiquem de sal. Hi incorporem les gambes pelades al cap de deu minuts. Coguem a foc lent fins que s'acabi de coure. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "400",
+          "nom": "Arròs",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "3",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Tomaquet triturat",
+          "producte": "Tomàquet",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "600",
+          "nom": "Calamars",
+          "producte": "Calamar",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Gambes",
+          "producte": "Gamba",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Tinta de calaamr",
+          "producte": "Tinta de calamar",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Caps de peix",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Arr%C3%B2s_negre_amb_calamars_i_gambes",
+      "dificultat": "Baixa",
+      "temps": "60",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Arr%C3%B2s_negre_amb_calamars_i_gambes.jpg/800px-Arr%C3%B2s_negre_amb_calamars_i_gambes.jpg",
+      "descripcio": "L'arròs negre amb calamars i gambes és una recepta d'arròs amb caldo de peix i tinta de calamar acompanyat amb calamars i gambes. ",
+      "valoracio": 4.5,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Canelons de mar i muntanya",
+      "preparacio": [
+        {
+          "pas": "En primer lloc, per a realitzar el farcit cal tallar la verdura a la brunoise (daus molt petits) i fer el sofregit, al que s'afegirà el pollastre trossejat i, al final, les gambes pelades. En l'últim moment també s'hi abocaran la mantega, la nata i la maizena perquè espessi el farcit. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Per a embolicar els canelons, posar una olla amb aigua, oli i sal i coure les fulles de col. Després, embolicar les fulles de col amb el farciment. ",
+          "imatge": ""
+        },
+        {
+          "pas": "La salsa es prepararà triturant els pebrots amb una mica d'oli a la batedora. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Finalment, s'emplata posant la salsa a la base i els canelons al damunt. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": 0,
+          "nom": "Fulles de col",
+          "producte": "Col",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Gambes",
+          "producte": "Gamba",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "300",
+          "nom": "Pollastre",
+          "producte": "Pollastre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "3",
+          "nom": "Tomàquets",
+          "producte": "Tomàquet",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Albergínia",
+          "producte": "Albergínia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Bitxo",
+          "producte": "Bitxo",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "125",
+          "nom": "Nata de cuinar",
+          "producte": "Nata de cuinar",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Fècula de blat de moro",
+          "producte": "Fècula de blat de moro",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "250",
+          "nom": "Pebrots del piquillo",
+          "producte": "Pebrots del piquillo",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Canelons_de_mar_i_muntanya",
+      "dificultat": "Baixa",
+      "temps": "45",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Canelons_de_mar_i_muntanya_%282%29.jpg/800px-Canelons_de_mar_i_muntanya_%282%29.jpg",
+      "descripcio": "Els canelons de mar i muntanya són una recepta deliciosa i amb productes frescs a base de canelons amb marisc i carn a l'estil mar i muntanya.",
+      "valoracio": 3.3,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Gaspatxo",
+      "preparacio": [
+        {
+          "pas": "Passeu-ho tot per la batedora i serviu-ho el més fred possible.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "0.5",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "3",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "50",
+          "nom": "Vinagre",
+          "producte": "Vinagre",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Tomàquets mitjans",
+          "producte": "Tomàquet",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "3",
+          "nom": "Pebrots",
+          "producte": "Pebrot vermell",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0.5",
+          "nom": "Cogombre",
+          "producte": "Cogombre",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "550",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pa",
+          "producte": "Pa",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Gaspatxo",
+      "dificultat": "Baixa",
+      "temps": "15",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Taz%C3%B3n_de_gazpacho.jpg/800px-Taz%C3%B3n_de_gazpacho.jpg",
+      "descripcio": "El gaspatxo (gazpacho en castellà, gaspacho en portuguès) és una sopa freda elaborada amb ingredients crus, tradicional del sud d'Espanya i Portugal. També es coneix com a \"gaspatxo andalús\". ",
+      "valoracio": 3.5,
+      "persones": "4"
+    },
+    {
+      "categoria": "Primer",
+      "nom": "Saltat de tallarines i gambes",
+      "preparacio": [
+        {
+          "pas": "Sofregiu la ceba amb l' oli. Afegiu les gambes, feu una reducció amb vi i tomàquet. Quan han deixat anar el suc les gambes i reduït el vi, poseu la pasta que prèviament haureu cuit. Barregeu tot en una paella fins que la pasta agafi el color i gust de les gambes. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "4",
+          "nom": "Cebes petites",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "4",
+          "nom": "Tomàquets de la pera",
+          "producte": "Tomàquet de pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Vi blanc",
+          "producte": "Vi blanc",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Saltat_de_tallarines_i_gambes",
+      "dificultat": "Baixa",
+      "temps": "60",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saltat_de_tallarines_i_gambes.jpg/800px-Saltat_de_tallarines_i_gambes.jpg",
+      "descripcio": "La recepta saltat de tallarines i gambes vol ser com l' Empordà, una combinació de la terra i el mar. ",
+      "valoracio": 4,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Albergínia farcida de carn",
+      "preparacio": [
+        {
+          "pas": "Netejar l’albergínia i tallar-la per la meitat, posar-hi una mica de sal i oli. Posar-la al forn durant 45 minuts. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Tallar la ceba fina i sofregir-la amb una mica d’oli a foc lent, afegir la carn picada, la sal, pebre i sofregir bé. Afegir el tomàquet tallat petit i remoure fins que quedi ben marró.",
+          "imatge": ""
+        },
+        {
+          "pas": "Treure les albergínies del forn netejar-les per dintre i farcir-les amb els ingredients i per damunt li posarem formatge i al forn durant 15 minuts. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "4",
+          "nom": "Albergínies",
+          "producte": "Albergínia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Carn picada",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Tomàquet de pera",
+          "producte": "Tomàquet de pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Formatge ratllat",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Alberg%C3%ADnia_farcida_de_carn",
+      "dificultat": "Baixa",
+      "temps": "75",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alberg%C3%ADnia_farcida.jpg/800px-Alberg%C3%ADnia_farcida.jpg",
+      "descripcio": "L'Albergínia farcida de carn i verduretes i gratinada amb formatge és una variant de la recepta d'albergínies farcides. ",
+      "valoracio": 4.4,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Botifarra amb mongetes",
+      "preparacio": [
+        {
+          "pas": "Posades en remull des de la vigília, les courem en aigua freda. A mig coure les adobarem i, un cop cuites, les escorrerem ben bé de l'aigua. Punxarem les botifarres amb una agulla per evitar que es reventin i les fregirem en una paella grossa al foc amb el llard. Un cop fregides les guardarem en un lloc temperat. A la mateixa paella hi fregirem les mongetes, deixant-les daurar. Ambdues coses es serveixen ben calentes i en una plàtera a taula. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "4",
+          "nom": "Botifarres tendres",
+          "producte": "Botifarra",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Llard",
+          "producte": "Llard",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "600",
+          "nom": "Mongetes seques",
+          "producte": "Mongeta seca",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Botifarra_amb_mongetes",
+      "dificultat": "Baixa",
+      "temps": "15",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grilled_sausages.jpg/800px-Grilled_sausages.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.8,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Bou estofat",
+      "preparacio": [
+        {
+          "pas": "En una olla de ferro al foc, amb el llard, hi sofregirem la ceba pelada i tallada a tires; quan estigui daurada hi afegirem l'all picat i la carn tallada a trossos, ho deixarem fer fins que la carn estigui daurada, afegint en aquest moment, els tomàquets pelats i picats, el vi ranci, les fulles de llorer i el gra de pebre. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Taparem l'olla amb un paper d'estrassa i al damunt hi posarem un plat de sopa amb aigua. Ho deixarem coure lentament 2 hores. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Pelarem les patates i les hi tirarem senceres, si són petites, afegint-hi també els bolets i la botifarra tallada a quatre trossos; ho deixarem fer tot junt fins que estigui ben cuit i en el seu punt. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "600",
+          "nom": "Culata de bou",
+          "producte": "Culata de bou",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Llard",
+          "producte": "Llard",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "300",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Tomàquets frescos",
+          "producte": "Tomàquet",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "10",
+          "nom": "Vi ranci",
+          "producte": "Vi ranci",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "0.5",
+          "nom": "Patates",
+          "producte": "Patata",
+          "unitat": "kg"
+        },
+        {
+          "quantitat": "150",
+          "nom": "Botifarra",
+          "producte": "Botifarra",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Ceps",
+          "producte": "Cep",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "2",
+          "nom": "Llorer",
+          "producte": "Llorer",
+          "unitat": "u"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Bou_estofat",
+      "dificultat": "Alta",
+      "temps": "120",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beef_Stew%21.jpg/800px-Beef_Stew%21.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.7,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Cananes farcides",
+      "preparacio": [
+        {
+          "pas": "Primer es netegen les cananes.",
+          "imatge": ""
+        },
+        {
+          "pas": "Es barreja la carn picada amb l'all picat i es salpebra.",
+          "imatge": ""
+        },
+        {
+          "pas": "En una cassola es fa el sofregit amb la ceba tallada brunoise i el tomàquet. Finalment ho salpebrem i ho deixem cuinar uns 30 minuts a foc suau.",
+          "imatge": ""
+        },
+        {
+          "pas": "Mentrestant es farceixen les cananes amb la carn i es dauren en una paella.",
+          "imatge": ""
+        },
+        {
+          "pas": "Finalment s'afegeixen les cananes farcides al sofregit i es deixa coure uns 45 minuts més a foc suau. Hi posen una mica de fumet o aigua per facilitar la cocció.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "800",
+          "nom": "Cananes netes",
+          "producte": "Canana",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "400",
+          "nom": "Carn picada mixta",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Tomàquet de pera",
+          "producte": "Tomàquet de pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Suquet de peix",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre",
+          "producte": "Pebre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Cananes_farcides",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cananes_farcides.jpg/800px-Cananes_farcides.jpg",
+      "descripcio": "Les cananes son semblants als calamars i en aquesta recepta es preparen farcides de carn picada mixta i sofregit",
+      "valoracio": 3.3,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Carxofes farcides amb xampinyons, pernil i avellanes",
+      "preparacio": [
+        {
+          "pas": "Primer netegeu, peleu i buideu l'interior de les carxofes. I poseu-les en un bol amb aigua i llimona durant 10 minuts. Seguidament enforneu-les durant uns 20-25 minuts. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Mentrestant s'han de netejar i tallar els xampinyons i la ceba a daus. El pernil salat també prepareu-lo a daus. Fregiu a foc baix la ceba en una paella amb oli. En una altra paella amb oli saltegeu els xampinyons i el pernil salat. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Es barreja tot i es farceixen les carxofes. Per acabar, ho haureu de gratinar al forn. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": 0,
+          "nom": "Carxofa",
+          "producte": "Carxofa",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Xampinyons",
+          "producte": "Xampinyó",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pernil salat",
+          "producte": "Pernil salat",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Avellanes",
+          "producte": "Avellana",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre negre",
+          "producte": "Pebre negre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Carxofes_farcides_amb_xampinyons,_pernil_i_avellanes",
+      "dificultat": "Baixa",
+      "temps": "60",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/1/17/Carxofes_farcides_amb_xampinyons%2C_pernil_i_avellanes_%281%29.jpg",
+      "descripcio": "La recepta de carxofes farcides amb xampinyons, pernil i avellanes és un plat fet a base de verdura, carn i fruits secs. Productes que normalment tenim a casa i són fàcils de cuinar. ",
+      "valoracio": 3.6,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Coll de xai de l'Empordà",
+      "preparacio": [
+        {
+          "pas": "Es desossa el coll de xai, es farceix de carn, es brida, es salpebra i es passem per una paella, fins agafar un color daurat. Llavors es pinta amb mostassa, es picola una mica de menta i se li posa per sobre. Es posa en una safata, afegint-hi aigua i es forneja al forn a 200ºC o 220ºC unes 2 hores aproximadament. A part es salten els xampinyons amb una mica de julivert. Amb el suc de la cocció es fa la salsa, i si queda molt líquida es pot lligar amb un espessant.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "2",
+          "nom": "Colls de xai",
+          "producte": "Colls de xai",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Menta fresca (manat)",
+          "producte": "Menta",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "60",
+          "nom": "Mostassa",
+          "producte": "Mostassa",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "50",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "300",
+          "nom": "Xampinyons",
+          "producte": "Xampinyó",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Julivert (manat)",
+          "producte": "Julivert",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0",
+          "nom": "Pebre negre",
+          "producte": "Pebre negre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Coll_de_xai_de_l%27Empord%C3%A0",
+      "dificultat": "Mitjana",
+      "temps": "120",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Coll_de_xai_de_l%27Empord%C3%A0_%281%29.jpg/800px-Coll_de_xai_de_l%27Empord%C3%A0_%281%29.jpg",
+      "descripcio": "El coll de xai de l'Empordà s'acompanya amb salsa de mostassa i menta. ",
+      "valoracio": 4.1,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Cua de rap farcida de gambes",
+      "preparacio": [
+        {
+          "pas": "Comencem obrint el rap, desespinar-lo i tallar-lo. Seguidament pelem les gambes i en reservem les restes per fer el fumet. Fem el fumet amb el cap i les espines de rap i les closques de les gambes. Pelem les patates i les tallem a rodanxes per daurar-les en una paella amb un rajolí d’oli. Les traspassem a una safata apte per al forn, les remullem amb el fumet de peix i ho fornegem a 200ºC uns 10-15 minuts. Salpebrem el rap, el farcim de gambes i el lliguem amb una mantellina. Finalment posar-lo sobre les patates remullat-lo amb l’oli de coure i el vi blanc, tot fornejat a 200ºC entre 20 i 25 minuts. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "2",
+          "nom": "Raps mitjans",
+          "producte": "Rap",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "18",
+          "nom": "Gambes de Palamós",
+          "producte": "Gamba de Palamós",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "150",
+          "nom": "Vi blanc",
+          "producte": "Vi blanc",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1.5",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Pastanagues",
+          "producte": "Pastanaga",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Farigola (fulla)",
+          "producte": "Farigola",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Api (branca)",
+          "producte": "Api",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre negre",
+          "producte": "Pebre negre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Porro",
+          "producte": "Porro",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Julivert",
+          "producte": "Julivert",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "6",
+          "nom": "Patates",
+          "producte": "Patata",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Ametlla trossejad",
+          "producte": "Ametlla",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Cua_de_rap_farcida_de_gambes",
+      "dificultat": "Alta",
+      "temps": "80",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cua_de_rap_farcida_de_gamba.jpg/1024px-Cua_de_rap_farcida_de_gamba.jpg",
+      "descripcio": "La recepta Cua de rap farcida de gambes de Palamós, és una variant de la cocció de cua de rap que es fa al forn i amb un farcit de gambes de Palamós. ",
+      "valoracio": 3.8,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Estofat de patates amb xoriç",
+      "preparacio": [
+        {
+          "pas": "Piqueu la ceba i el pebrot. Un cop picats, fondegeu la cassola amb una mica d’oli. Afegiu l’all, el llor i la cirereta. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Incorporeu després el xoriço tallat a rodelles i deixeu-ho coure. Seguidament, incorporeu les patates esqueixades, cobriu-ho amb aigua i condimenteu. Deixeu que es facin les patates durant 30 minuts. Mentrestant, aneu netejant el pebrot xoricer (o les nyores), poseu-los em remull amb aigua tèbia i quan s’estovin traieu la carn i piqueu-la. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Retireu l’all, el llorer i la cirereta de la cassola i afegiu-hi la carn del pebrot o nyora. Remeneu i deixeu coure dos minuts més. Rectifiqueu de sal i serviu en un plat fondo amb una branqueta de julivert. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "6",
+          "nom": "Patates",
+          "producte": "Patata",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "3",
+          "nom": "Xoricets",
+          "producte": "Xoriço",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pebrot verd",
+          "producte": "Pebrot verd",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Nyores",
+          "producte": "Nyora",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "2",
+          "nom": "Fulles de llorer",
+          "producte": "Llorer",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Julivert",
+          "producte": "Julivert",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Estofat_de_patates_amb_xori%C3%A7",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Estofat_de_patates_amb_xori%C3%A7o.jpg/800px-Estofat_de_patates_amb_xori%C3%A7o.jpg",
+      "descripcio": "L'estofat de patates amb xoriç és un estofat casolà amb patates i xoriç picant. El caldo agafa el sabor del xoriç i un color característic ataronjat. ",
+      "valoracio": 3.5,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Kefta amb ous",
+      "preparacio": [
+        {
+          "pas": "Comenceu per fer les mandonguilles: Piqueu ben petits un all, el julivert i mitja ceba, afegiu un polsim de comí, sal i pebre negre, i barregeu tot amb la carn picada. Formeu mandonguilles petites, de la mida d'una nou. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Piqueu molt finament l'altra ceba i l'all, i sofregiu-los en una paella amb oli d'oliva. Ratlleu els tomàquets i afegiu-los quan la ceba estigui tova. Afegiu una mica de safrà i coeu a foc lent fins que el tomàquet estigui ben cuit. Afegiu les mandonguilles i salteu-lessss.",
+          "imatge": ""
+        },
+        {
+          "pas": "Preescalfeu el forn a temperatura mitjana. Beteu una mica els ous, no han de quedar homogenis sinó que s'han de veure zones més grogues i d'altres més blanques. Aboqueu les mandonguilles amb salsa en una cassola de terrissa, o si preferiu en dues d'individuals, i cobriu-les amb els ous batuts. Gratineu al forn durant uns deu minuts, fins que qualli l'ou, i serviu ben calent. Podeu decorar-lo amb una mica de julivert. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "500",
+          "nom": "Tomàquets",
+          "producte": "Tomàquet",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Carn picada",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Ous",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1.5",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "All",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Julivert",
+          "producte": "Julivert",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Comí",
+          "producte": "Comí",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Safrà",
+          "producte": "Safrà",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Kefta_amb_ous",
+      "dificultat": "Alta",
+      "temps": "45",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Detalle_Kefta.jpg",
+      "descripcio": "El kefta amb ous és un plat de mandonguilles (kefta, en àrab) de carn amb tomàquet i gratinades al forn que pertany a la cuina del Marroc. ",
+      "valoracio": 4.1,
+      "persones": "2"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Mil fulls de patata amb botifarra",
+      "preparacio": [
+        {
+          "pas": "Es pelen les patates i es tallen a l’estil panadera molt fina. Un cop tallades es posen en una placa de forn recobertes amb oli i s’enfornen uns 5-10 min a 150ºC. Es pica la ceba de Figueres i s'ofega, quan està una mica daurada s’hi afegeix el pernil salat i la botifarra. Es posen 3 capes de patata i una del preparat anterior. Tres capes més de patata, una de preparat i per últim dos capes més de patata. Es posa a sobre formatge ratllat i julivert. Finalment es gratina uns segons i es decora amb unes verdures tallades i una fulla de menta. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "4",
+          "nom": "Patates",
+          "producte": "Patata",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Pernil salat",
+          "producte": "Pernil salat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Botifarra",
+          "producte": "Botifarra",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "50",
+          "nom": "Formatge ratllat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Julivert",
+          "producte": "Julivert",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Menta",
+          "producte": "Menta",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Mil_fulls_de_patata_amb_botifarra",
+      "dificultat": "Mitjana",
+      "temps": "75",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mill_fulls_patata_amb_botifarra_%282%29.png",
+      "descripcio": "La recepta Mil fulls de patata amb botifarra és un mil fulls de patata amb un saltejat de ceba, botifarra i pernil salat. ",
+      "valoracio": 4.8,
+      "persones": "1"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Paella de l'Empordà",
+      "preparacio": [
+        {
+          "pas": "Tallem el pollastre i el bull negre a mirepoix. Saltem el pollastre i el bull negre, tot reduint-ho amb una mica de vi de l'Empordà. Apart, fem un sofregit amb ceba de Figueres, tomàquet de la pera i albergínia a daus. Hi afegim el pollastre i el bull, seguidament l'arròs. Ho barregem bé i afegim brou de pollastre fins a cobrir l'arròs i el deixem coure a foc lent uns 20 minuts. Ho deixem reposar. Fem un cruixent amb l'albergínia i fregim l'all a làmines. Finalment emplatem segons la foto. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "400",
+          "nom": "Arròs",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Albergínia",
+          "producte": "Albergínia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "4",
+          "nom": "Cuixes de pollastre",
+          "producte": "Cuixa de pollastre",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Tomàquet de pera",
+          "producte": "Tomàquet de pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "300",
+          "nom": "Bull negre",
+          "producte": "Bull negre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Escarola",
+          "producte": "Escarola",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "4",
+          "nom": "All (grans)",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Vi negre",
+          "producte": "Vi negre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Brou de pollastre",
+          "producte": "Brou de pollastre",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Paella_de_l%27Empord%C3%A0",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Paella_de_l%27Empord%C3%A0_%282%29.jpg/1024px-Paella_de_l%27Empord%C3%A0_%282%29.jpg",
+      "descripcio": "La recepta Paella de l'Empordà és un arròs sec de pollastre amb bull negre i albergínia bonica. Acompanyant amb escarola, all fregit i salsa balsàmica amb cruixents d’albergínia.",
+      "valoracio": 4.4,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Pollastre de pagès amb gambes",
+      "preparacio": [
+        {
+          "pas": "Salpebrar i enfarinar el pollastre. Posar oli a la cassola, marcar el pollastre i reservar-lo. A la mateixa cassola on hem marcat el pollastre, fregir les gambes i retirar-les. A continuació, fregir la ceba i l’all. Quan comencin a daurar-se, afegir el tomàquet i remoure sense parar, fins que estigui ben concentrat. Un cop el sofregit estigui a punt, afegir els trossos de pollastre i cobrir de brou. Aprofitar per anar fent una picada d’alls, ametlles i julivert amb el morter. Quan el pollastre estigui melós, afegir les gambes i la picada. Deixar coure a foc lent durant 20 minuts. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "1",
+          "nom": "Pollastre de pagès",
+          "producte": "Pollastre",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "12",
+          "nom": "Gambes",
+          "producte": "Gamba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Cebes",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "3",
+          "nom": "Tomàquets petits madurs",
+          "producte": "Tomàquet",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "3",
+          "nom": "All (dents)",
+          "producte": "All",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ametlles (grapat)",
+          "producte": "Ametlla",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Albergínia",
+          "producte": "Albergínia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Brou de pollastre",
+          "producte": "Brou de pollastre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Farina",
+          "producte": "Farina",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre negre",
+          "producte": "Pebre negre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Julivert",
+          "producte": "Julivert",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Pollastre_de_pag%C3%A8s_amb_gambes",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cuina_de_l%27Empord%C3%A0_2323.jpg/1024px-Cuina_de_l%27Empord%C3%A0_2323.jpg",
+      "descripcio": "El Pollastre de pagès amb gambes és un plat de mar i muntanya on podem gaudir de bons productes de l’Empordà. ",
+      "valoracio": 4.6,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Risotto de verdures i formatge curat",
+      "preparacio": [
+        {
+          "pas": "Poseu oli d’oliva en una olla per preparar el brou. Talleu la ceba, el porro i les pastanagues i afegiu-ho a l’olla. Agregueu el pollastre i deixeu coure uns minuts. Afegiu aigua fins cobrir-ho tot i deixeu coure a foc mig durant 40 minuts. Un cop llest, baixeu el foc al mínim per mantenir la temperatura.",
+          "imatge": ""
+        },
+        {
+          "pas": "Una vegada la verdura estigui cuita, afegiu l’arròs i un rajolí de vi i deixeu evaporar. Afegir el brou de pollastre tebi, poc a poc, a mesura que l’arròs ho vagi necessitant i salpebrar al gust. Un cop l’arròs estigui fet, afegiu el formatge curat i removeu fins que s’incorpori.",
+          "imatge": ""
+        },
+        {
+          "pas": "Per emplatar, netegeu i talleu les carxofes, salpebreu-les i enfarineu-les per fregir. Un cop fregides, col·loqueu-les sobre l’arròs ja emplatat i afegiu el julivert picat en un costat del plat. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre negre",
+          "producte": "Pebre negre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "100",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "350",
+          "nom": "Arròs",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "150",
+          "nom": "Vi blanc",
+          "producte": "Vi blanc",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Formatge curat",
+          "producte": "Formatge curat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Pebrots verds",
+          "producte": "Pebrot verd",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Tomàquets",
+          "producte": "Tomàquet",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Bolets",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Pastanagues",
+          "producte": "Pastanaga",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "500",
+          "nom": "Brou de pollastre",
+          "producte": "Brou de pollastre",
+          "unitat": "ml"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Risotto_de_verdures_i_formatge_curat_de_Fonteta",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/5/55/Risotto_de_verdures_%282%29.jpg",
+      "descripcio": "La recepta Risotto de verdures i formatge curat de Fonteta és un plat deliciós, de fàcil elaboració que conté ingredients típics de l’Empordà com la ceba de Figueres, l’arròs de Pals o el formatge de Fonteta. ",
+      "valoracio": 3.6,
+      "persones": "4"
+    },
+    {
+      "categoria": "Segon",
+      "nom": "Tagín de sardines al forn a l'empordanesa",
+      "preparacio": [
+        {
+          "pas": "Es netegen les sardines i es posen en un bol suc de llimona, totes les espècies, la sal, l'oli d'oliva, l'aigua i els alls per tal d’impregnar-les amb la barreja. Es tallen les verdures i es couen per separat a la planxa. Es posem al tagín, una d'amunt l'altra seguint el següent ordre: la ceba, el tomàquet, el pebrot verd i vermell, etc. Es tira la meitat de la barreja a la verdura perquè també agafi el gust. Es posa el peix d'amunt l’altre meitat de la barreja. S’afegeixen les panses i els talls de llimona a sobre el peix. Es posa el tagín al forn a 180° durant 15 minuts quan el traiem del forn li tirem les olives. A la recepta d'origen marroquí s'utilitza el pa per acompanyar.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "2",
+          "nom": "Ceba",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Tomàquet de pera",
+          "producte": "Tomàquet de pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "500",
+          "nom": "Patates",
+          "producte": "Patata",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "10",
+          "nom": "Sardines",
+          "producte": "Sardina",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre negre",
+          "producte": "Pebre negre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Comí",
+          "producte": "Comí",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pebre vermell dolç",
+          "producte": "Pebre vermell dolç",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Julivert picat",
+          "producte": "Julivert",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Coriandre picat",
+          "producte": "Coriandre",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "200",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "4",
+          "nom": "Pa",
+          "producte": "Pa",
+          "unitat": "u"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Tag%C3%ADn_de_sardines_al_forn_a_l%27empordanesa",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tag%C3%ADn_de_sardines_al_forn_%282%29.png",
+      "descripcio": "La recepta Tagín de sardines al forn a l’empordanesa és un tagín fet amb sardina de verduretes i espècies.",
+      "valoracio": 3.5,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Orelletes de Tarragona",
+      "preparacio": [
+        {
+          "pas": "Pastarem junts la farina, el sucre (en guardem una mica per empolsar les orelletes), els ous, el llevat, l'anís, ratlladura de pela de llimona i la llet. Estendrem aquesta massa amb el corró fent-ne porcions d'uns 25 grs. de pes que aplanarem fins a aconseguir com uns discos. Posarem l'oli al foc i els hi fregirem quan estigui ben roent. En treure'ls i un cop escorreguts, hi tirarem sucre.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "0.5",
+          "nom": "Farina extra",
+          "producte": "Farina",
+          "unitat": "kg"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "3",
+          "nom": "Ous",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "6",
+          "nom": "Llevat en pols",
+          "producte": "Llevat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Anís",
+          "producte": "Anís",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pell de llimona",
+          "producte": "Llimona",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "125",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "0.5",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "l"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Orelletes_de_Tarragona",
+      "dificultat": "Baixa",
+      "temps": "20",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Orelletes.JPG/800px-Orelletes.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 3.8,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Peres farcides a l'empordanesa",
+      "preparacio": [
+        {
+          "pas": "No pelarem les peres, però les buidarem de dins fent-ho per la part de sota perquè així, en servir-les, no es coneix per on han estat obertes. Afegirem a la carn magra trinxada, l'ou batut, els bescuits, les ametlles ratllades, la canyella en pols i 25 grams de sucre, ho barrejarem fins que tinguem una pasta fina amb la qual farcirem les peres que col·locarem en una cassola on càpiguen justes. Hi afegirem el sucre restant, el moscatell, la pela de llimona ratllada i la canyella amb branca. Les courem tapades per espai de tres hores, i coneixerem si estan en el seu punt si el líquid ha quedat cop un xarop espès. Les servirem fredes en una plàtera, recobertes amb el seu propi xarop. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "4",
+          "nom": "Peres grosses",
+          "producte": "Pera",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "0.5",
+          "nom": "Moscatell",
+          "producte": "Moscatell",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Carn magra trinxada",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "50",
+          "nom": "Ametlles torrades",
+          "producte": "Ametlla",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ou",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Llimona",
+          "producte": "Llimona",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Canyella",
+          "producte": "Canyella",
+          "unitat": "u"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Peres_farcides_a_l%27empordanesa",
+      "dificultat": "Mitjana",
+      "temps": "180",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Poached_pears_with_mascarpone.jpg/800px-Poached_pears_with_mascarpone.jpg",
+      "descripcio": "Les peres farcides a l'empordanesa són un postre amb fruita, vi i carn. Es tracta d'una de les diverses variants de la recepta del Maresme i l'Empordà que es pot trobar als antics receptaris gastronòmics. ",
+      "valoracio": 3.9,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Poma caramelitzada amb galeta",
+      "preparacio": [
+        {
+          "pas": "En primer lloc, peleu les pomes i talleu-les a daus. Després, banyeu-les en el suc de llimona perquè no s'oxidin ni s'enfosqueixin. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Per altra banda, escalfeu el sucre amb un raig d'aigua a foc suau, i remeneu amb el cullerot de fusta fins que caramel·litzi. Incorporeu els daus de poma, la vainilla i 50 grams de mantega. Deixeu-ho coure uns 5 minuts sense deixar de remenar. Transcorregut aquest temps, traieu-ho tot del foc i retireu la vainilla. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Tritureu paral·lelament les galetes i, sobre aquestes, afegiu la resta de mantega (30 grams) i una cullerada d'aigua. Amasseu els 3 ingredients fins que quedi una pasta densa i homogènia. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Ara ja podeu passar a la fase d'emplatat. Col·loqueu 4 motlles de rebosteria i repartiu-hi la pasta de galeta pel fons de cadascun d'ells. Pressioneu fins que faci un gruix d'uns 2 centímetres de gruix. A sobre, poseu-hi els daus de poma caramel·litzada. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Per últim, decoreu cadascuna de les preparacions amb una cullerada de nata muntada. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "3",
+          "nom": "Pomes",
+          "producte": "Poma",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "12",
+          "nom": "Galetes Maria",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Nata muntada",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "60",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "80",
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Suc de mitja llimona",
+          "producte": "Llimona",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Vainilla (beina)",
+          "producte": "Vainilla",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Poma_caramelitzada_amb_galeta",
+      "dificultat": "Baixa",
+      "temps": "30",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Poma_caramelitzada_amb_galeta_%282%29.jpg/800px-Poma_caramelitzada_amb_galeta_%282%29.jpg",
+      "descripcio": "El poma caramelitzada amb galeta és un postre dolç i senzill consistent en una base de poma cuita i galetes, i decorat amb nata a la seva part superior. ",
+      "valoracio": 4.7,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Tortell de Reis",
+      "preparacio": [
+        {
+          "pas": "Abans de començar a fer aquesta recepta, assegura't que tens un marbre o taula ampli ja que per poder manipular la massa (com fan els pastissers) necessites espai. Un cop t'hagis fet espai, neteja bé la superfície. Agafa la farina i posa-la sobre la taula o el marbre com si fos un volcà amb el seu cràter. Al forat aboca-hi el llevat, el sucre, la mantega, la culleradeta de sal, la raspadura de llimona i la llet (si està a temperatura ambient, molt millor que si està freda). Amb les mans ben netes uneix els ingredients, amassant-los perquè que et quedi una pasta consistent però que es pugui manipular. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Un truc: sabràs que la massa ja està en el seu punt, quan ja no se t'enganxi a les mans. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Un cop ja ho tens, fes una bola i posa-la en un bol o recipient en un lloc fresc i deixa-ho reposar unes quatre hores com a mínim. Després, agafa-la, estira-la i uneix els seus extrems, de manera que formis un anell, un rosco, i posa'l en una safata que pugui anar al forn. Llavors, embolica la figureta o sorpresa que tens preparada i la fava amb una mica de paper d'alumini i introdueix-les dins la massa allà on vulguis, procurant que no es vegin des de l'exterior. ",
+          "imatge": ""
+        },
+        {
+          "pas": "A continuació, bat un ou i amb un pinzell pinta la massa. Ja veuràs que et quedarà brillant. Empolsega la superfície amb sucre i unes ametlles triturades i posa-hi la fruita confitada. Mentre fas tot això, encén el forn i escalfa'l a 150ºC. Quan ja estigui a aquesta temperatura, introdueix la safata i deixa coure el rosco durant una mitja hora. Quan ja estigui cuit, fes una corona de cartolina i posa-la al forat del rosco i ja tens el teu tortell de Reis. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "500",
+          "nom": "Farina",
+          "producte": "Farina",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "150",
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "20",
+          "nom": "Llevat",
+          "producte": "Llevat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Raspadura de llimona",
+          "producte": "Llimona",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ou",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Ametlles triturades",
+          "producte": "Ametlla",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Fruita confitada (taronja, meló, cireres, etc).",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Tortell_de_Reis",
+      "dificultat": "Mitjana",
+      "temps": "45",
+      "imatge": "https://farm6.staticflickr.com/5202/5381821415_1035f12fe5_o_d.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.5,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Xuxos farçits de crema",
+      "preparacio": [
+        {
+          "pas": "Posarem en un cassó el llevat i el diluirem amb la llet que estarà tèbia, hi afegirem després 150 grams de farina i formarem una bola que deixarem reposar en un lloc temperat fins que dobli el seu volum incial. En una cassola tirarem la farina restant i li barrejarem els ous, el sucre, la mantega fosa, la 1/2 copeta de resoli, una mica de pela de llimona ratllada i el 1/2 litre d'aigua tèbia. Acte seguit hi incorporarem la pasta del llevat i ho barrejarem bé tot, taparem la cassola i la guardarem en un lloc temperat durant 1/2 hores. Passat aquest temps, col·locarem la pasta damunt la farina escampada en un marbre, la tallarem a trossets i l'empolsarem amb farina, formarem unes tires gruixudes i llargues que enrotllarem en un bastó, donant-los la forma característica, i fregint-los en abundant oli roent, un cop escorreguts els farcirem, després de treure el bastó, amb la crema de pastís i, finalment, els empolsarem amb sucre. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "400",
+          "nom": "Farina extra",
+          "producte": "Farina",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "50",
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "50",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "10",
+          "nom": "Llevat premsat de forn",
+          "producte": "Llevat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "25",
+          "nom": "Aiguardent d'herbes",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Llimona",
+          "producte": "Llimona",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Oli d'oliva",
+          "producte": "Oli d'oliva",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "50",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Crema de pastís",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "0.5",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "4",
+          "nom": "Ous",
+          "producte": "Ou",
+          "unitat": "u"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Xuxos_far%C3%A7its_de_crema",
+      "dificultat": "Mitjana",
+      "temps": "120",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Xuixo_obert.jpg/1024px-Xuixo_obert.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 3.6,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Crema catalana",
+      "preparacio": [
+        {
+          "pas": "En un cassó poseu els rovells d'ou i el sucre i remeneu amb l'espàtula fins que quedi una massa homogènia ben barrejada. Al mateix temps, poseu en un altre cassó la llet amb el canonet de canyella i la pell de llimona (perquè quedi aromatitzada). ",
+          "imatge": ""
+        },
+        {
+          "pas": "Quan la llet arrenqui el bull, afegiu la mescla dels rovells i el sucre i remeneu amb el remenador. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Desfeu el midó amb la mica d'aigua freda (o amb l'equivalent de llet), coleu-lo i afegiu-lo a la crema. En cas que preferiu utilitzar la fècula de blat de moro, l'haureu d'haver afegit després de barrejar els rovells d'ou i el sucre, i remeneu perquè quedi integrada (no ho feu després de la llet).",
+          "imatge": ""
+        },
+        {
+          "pas": "Un cop estan tots els ingredients barrejats al foc, no deixeu de remenar fins que la mescla arrenqui el bull. Quan ho faci, retireu el cassó del foc i seguiu remenant uns minuts més per evitar que se us talli. Repartiu la crema en cassoletes de terrissa i deixeu-les refredar a temperatura ambient. Després, mantingueu-les refrigerades a la nevera. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Quan les vulgueu servir, traieu les racions de crema de la nevera amb prou antelació com per poder dipositar-ne el polsim de sucre per sobre 15 minuts abans de servir-les. Cremeu aquest sucre amb el cremador elèctric, espereu vora un quart d'hora i serviu-les. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "0.5",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "200",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "4",
+          "nom": "Rovells d'ou",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "20",
+          "nom": "Fècula de blat de moro",
+          "producte": "Fècula de blat de moro",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Canyella",
+          "producte": "Canyella",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pell de llimona",
+          "producte": "Llimona",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "ml"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Crema_catalana",
+      "dificultat": "Baixa",
+      "temps": "30",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Crema_quemada_-_jlastras.jpg/1024px-Crema_quemada_-_jlastras.jpg",
+      "descripcio": "La crema catalana, que també rep el nom de crema cremada o crema de Sant Josep, són les postres més populars de Catalunya i considerades les més antigues d'Europa de la seva categoria. Fet a base de llet, ous i sucre, es caracteritza per la seva capa de sucre cremat al damunt. ",
+      "valoracio": 4.9,
+      "persones": "6"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Flam",
+      "preparacio": [
+        {
+          "pas": "Batiu els ous i el sucre ben batuts i afegiu-hi la llet. Remeneu ben remenat. A part, prepareu la flamera amb sucre cremat. Coleu la barreja mentre l'aneu posant a la flamera. Mentrestant haureu fet escalfar una cassola amb l'aigua dins del forn, on fareu coure la flamera amb llet al bany maria. La cocció ha de ser lenta i no heu de deixar que bulli l'aigua a la cassola. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Si el voleu coure a l'antiga, fiqueu la flamera dins d'una cassola am aigua i poseu-la a coure a la llar de foc. Tapeu la cassola amb una tapa primeta i col·loqueu-hi brases al damunt, perquè es torri per sobre. Estarà al punt quan hi pogueu clavar una broca de fer mitja i no es tombi. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "8",
+          "nom": "Ous",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Vainilla (beina)",
+          "producte": "Vainilla",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "kg"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pell de llimona",
+          "producte": "Llimona",
+          "unitat": "u"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Flams",
+      "dificultat": "Baixa",
+      "temps": "30",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flan_con_nata.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.7,
+      "persones": "8"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Menjar blanc de Tarragona",
+      "preparacio": [
+        {
+          "pas": "Escaldeu les ametlles en aigua dins un cassó per tal que siguin més tendres. Després, tritureu-les en aigua perquè la molturació sigui més efectiva. Si voleu, deixeu-la refredar a la nevera durant una nit perquè sigui més efectiva. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Coleu o premseu amb un drap de fil la mescla fins que obtingueu, com a mínim, un litre de llet d'ametlla. Si no fos així, podeu afegir més aigua, però en cap cas llet de vaca si voleu mantenir la variant geogràfica de la recepta. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Posteriorment, reserveu 100 grams de la llet d'ametlla per a barrejar-la amb el midó de blat en un bol i després coleu-la. Paral·lelament, poseu-ne la resta en un cassó amb el sucre, la canyella, la pela de llimona (i si és el cas, també de taronja) i un polsim de sal. Quan la barreja estigui calenta, afegiu-hi la part de llet amb el midó i remeneu amb l'espàtula per a que espesseixi i no s'enganxi al fons. ",
+          "imatge": ""
+        },
+        {
+          "pas": "Un cop arrenqui el bull, escudelleu la mescla als motlles i tapeu-los per a que no facin pell. Quan hagin refredat, emplateu les unitats i serviu-les amb fruits vermells, ametlles o canyella. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "1",
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "500",
+          "nom": "Ametlles crues pelades",
+          "producte": "Ametlla",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Pell de llimona",
+          "producte": "Llimona",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Canyella",
+          "producte": "Canyella",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Midó de blat",
+          "producte": "Midó de blat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Menjar_blanc_de_Tarragona",
+      "dificultat": "Mitjana",
+      "temps": "60",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blanc-manger_with_cocoa_powder_and_almonds.jpg/1024px-Blanc-manger_with_cocoa_powder_and_almonds.jpg",
+      "descripcio": "El menjar blanc (o popularment, menjablanc) és un postre típic del Camp de Tarragona que consisteix en una crema d'ametlles. Algunes variants, com les de Menorca i de l'Alguer, no utilitzen ametlles sinó llet. Es tracta d'una preparació amb una dilatada història que es remunta a l'època medieval i que va ser extesa per tot Europa, si bé ha evolucionat considerablement fins la que coneixem actualment. ",
+      "valoracio": 3.9,
+      "persones": "8"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Arròs amb llet",
+      "preparacio": [
+        {
+          "pas": "Bulliu l'arròs amb l'aigua duran uns 5 minuts i mentrestant aneu fent bullir la llet a part. Quan bulli la llet, aboqueu-hi l'arròs escorregut, una mica de canyella i el sucre, i deixeu-lo fer a foc lent fins que es faci espès. Encabat, retireu-lo del foc i deixeu-lo refredar ja disposat en la safata on ho volgueu servir. Un cop fred, espolvoregeu la canyella pel damunt.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "150",
+          "nom": "Arròs",
+          "producte": "Arròs",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Aigua",
+          "producte": "Aigua",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Canyella en pols",
+          "producte": "Canyella",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "l"
+        },
+        {
+          "quantitat": "60",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Arr%C3%B2s_amb_llet",
+      "dificultat": "Mitjana",
+      "temps": "20",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arros_amb_llet.jpg/1024px-Arros_amb_llet.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.2,
+      "persones": "4"
+    },
+    {
+      "categoria": "Entrant",
+      "nom": "Bomba tatin",
+      "preparacio": [
+        {
+          "pas": "En una cassola a foc suau posem 150 gr de sucre morè i 120 gr de mantega. Tallem la ceba i l'albergínia a dauets i la courem amb la mantega i sucre morè, sense deixar de remenar. Agafem els motllos de silicona i els emplenem amb el farcit d'albergínia i ceba caramel·litzada. Amb el tallapastes fem cercles de pasta brisa, que farem servir per tapar el farcit d'albergínia i ceba. Ho posem al forn a una temperatura de 190ºC durant uns 15 minuts. Una vegada estigui fet ho treiem del forn i esperem uns minuts a que es refredi i poder treure'ls dels motllos amb més facilitat. Un cop tret dels motllos, al cim hi posarem una quenefa de recuit de drap. Decorarem amb uns fils de mel per sobre.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "2",
+          "nom": "Albergínies",
+          "producte": "Albergínia",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Cebes",
+          "producte": "Ceba",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "120",
+          "nom": "Sucre morè",
+          "producte": "Sucre morè",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Recuit de drap",
+          "producte": "Recuit de drap",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Pasta brisa",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": 0,
+          "nom": "Mel",
+          "producte": "Mel",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Bomba_tatin",
+      "dificultat": "Mitjana",
+      "temps": "90",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bomba_Tatin.jpg/800px-Bomba_Tatin.jpg",
+      "descripcio": "La recepta Bomba Tatin és la versió salada de la tarta tatin, ideal per a aperitius. ",
+      "valoracio": 3.3,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Brioix",
+      "preparacio": [
+        {
+          "pas": "Com ja és habitual en un bol formarem un volcà amb la farina i hi abocarem la llet amb el llevat dissolt i una culleradeta de sucre. Barregeu-ho amb una cullera i cobriu el bol amb un drap de cuina. Deixeu reposar 15 minuts aproximadament. Afegiu la resta d’ingredients: el sucre que ens ha quedat, l’ou, la ratlladura de taronja, la mantega, la vainilla i un polsim de sal. Amassarem fins que ens quedi una massa homogènia, si observeu que és massa enganxosa podeu afegir una mica de farina més, i deixarem reposar fins que dobli el volum (2 hores). Passat el temps de fermentació, formarem unes boletes sobre una superfície enfarinada. Podeu farcir-les del que vulgueu: xocolata, melmelada, sobrassada, et. Col·loqueu les boles en un motllo de magdalena, pinteu-les amb l’ou batut i enforneu-les a 200º durant uns 15-20 minuts fins que s’hagin daurat. A continuació, una vegada siguin fora del forn, les pintarem amb la mantega. ",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "500",
+          "nom": "Farina de blat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Llet",
+          "producte": "Llet",
+          "unitat": "ml"
+        },
+        {
+          "quantitat": "20",
+          "nom": "Llevat fresc",
+          "producte": "Llevat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "75",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "q.s."
+        },
+        {
+          "quantitat": "1",
+          "nom": "Ou",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "75",
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "15",
+          "nom": "Vainilla",
+          "producte": "Vainilla",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Ratlladura de taronja",
+          "producte": "Taronja",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Brioixos",
+      "dificultat": "Mitjana",
+      "temps": "120",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Granita_brioche.JPG/800px-Granita_brioche.JPG",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 3.3,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Bunyols de l'Empordà",
+      "preparacio": [
+        {
+          "pas": "Amb la farina, el sucre, la mantega, el llevat premsat i la sal fem una massa ben homogènia. Preparem una infusió de matafaluga o anís sec en un quart de litre de llet. Opcionalment, podem afegir-hi uns 10 grams de celiandre i mitja branca de canyella. Colem la infusió i la incorporem mentre encara és tèbia, per tal que es barregi millor. Tot seguit, afegim la pell de llimona i uns 10 cl. de garnatxa i 10 cl. d'aiguanaf. Si hi posem garnatxa i aiguanaf, és molt important descomptar-los del pes total de la llet o la mescla ens quedarà aigualida. Sense deixar d'amassar, incorporem els ous d'un en un fins a tenir una massa ben homogènia i la deixarem reposar en un lloc tebi i sense corrent d'aire. En dues hores, haurà doblat el seu volum. Amb les mans humides o enfarinades perquè la massa no s'enganxi tant, farem les boles de la mida d'un bunyol. En una paella, escalfem l'oli. Quan és roent, no abans, hi fregim els bunyols. No els donem la volta fins que es daurin..",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "625",
+          "nom": "Farina",
+          "producte": "Farina",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "150",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "7",
+          "nom": "Sal",
+          "producte": "Sal",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "15",
+          "nom": "Anís",
+          "producte": "Anís",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "65",
+          "nom": "Mantega",
+          "producte": "Mantega",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "12",
+          "nom": "Pell de llimona",
+          "producte": "Llimona",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "35",
+          "nom": "Llevat premsat",
+          "producte": "Llevat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "250",
+          "nom": "Llet tèbia",
+          "producte": "Llet",
+          "unitat": "ml"
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Bunyols_de_l%27Empord%C3%A0",
+      "dificultat": "Mitjana",
+      "temps": "45",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bunyols_de_carabassa.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.8,
+      "persones": "4"
+    },
+    {
+      "categoria": "Postre",
+      "nom": "Carquinyolis",
+      "preparacio": [
+        {
+          "pas": "Formeu un volcà amb la farina i el llevat sobre el marbre; en el centre poseu-hi un ou, el sucre, la raspa dura de llimona i la canyella; treballeu-ho una mica i després afegiu-hi les ametlles crues senceres; aromatitzeu la massa amb anís. Barregeu-ho tot, amassant fins al punt de poder formar unes barretes d'uns tres centímetres d'amplada per la meitat d'alçada. Pinteu les barretes amb rovell d'ou barrejat amb unes gotes d'aigua. Escalfeu el forn prèviament i, damunt d'una safata untada perquè no s'enganxin, introduïu les barretes; deixeu-les coure fins que siguin daurades, amb el forn a temperatura suau. Quan estiguin cuites, talleu-les diagonalment mentre siguin toves, perquè si es tallen fredes i seques es trencaran. Torneu a col-locar-les en la mateixa safata, fins que s'assequin i quedin daurades a dintre el forn.",
+          "imatge": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "quantitat": "100",
+          "nom": "Ametlles crues",
+          "producte": "Ametlla",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "2",
+          "nom": "Ous",
+          "producte": "Ou",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "1",
+          "nom": "Llimona",
+          "producte": "Llimona",
+          "unitat": "u"
+        },
+        {
+          "quantitat": "100",
+          "nom": "Sucre",
+          "producte": "Sucre",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "175",
+          "nom": "Farina",
+          "producte": "Farina",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "15",
+          "nom": "Llevat en pols",
+          "producte": "Llevat",
+          "unitat": "g"
+        },
+        {
+          "quantitat": "7",
+          "nom": "Canyella en pols",
+          "producte": "Canyella",
+          "unitat": "g"
+        },
+        {
+          "quantitat": 0,
+          "nom": "Anís",
+          "producte": "Anís",
+          "unitat": "q.s."
+        }
+      ],
+      "url": "https://ca.wikibooks.org/wiki/Llibre_de_cuina/Receptes/Carquinyolis",
+      "dificultat": "Baixa",
+      "temps": "60",
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/I_cantuccini.jpg/1024px-I_cantuccini.jpg",
+      "descripcio": "Una descripció d'exemple: en aquesta vista es mostra una descripció de l'element",
+      "valoracio": 4.6,
+      "persones": "4"
+    }
+  ]
+}

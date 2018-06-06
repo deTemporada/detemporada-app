@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <CalendarView
+        android:id="@+id/calendari"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/marge_gran"
+        android:layout_marginEnd="@dimen/marge_gran"
+        />
+    <RadioGroup
+        android:checkedButton="@+id/apat_dinar"
+        android:id="@+id/apat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/marge_gran"
+        android:layout_marginEnd="@dimen/marge_gran"
+        android:background="@drawable/selector_apat_vora"
+        android:orientation="horizontal"
+        android:clipChildren="true">
+
+        <RadioButton
+            android:id="@+id/apat_dinar"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginStart="1dp"
+            android:background="@drawable/selector_apat_fons"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/apat_dinar"
+            android:textColor="@drawable/selector_apat_text" />
+
+        <RadioButton
+            android:id="@+id/apat_sopar"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginEnd="1dp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_apat_fons"
+            android:button="@null"
+            android:padding="10dp"
+            android:gravity="center"
+            android:text="@string/apat_sopar"
+            android:textColor="@drawable/selector_apat_text" />
+    </RadioGroup>
+</LinearLayout>

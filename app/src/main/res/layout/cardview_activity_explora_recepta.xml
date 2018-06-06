@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/recepta_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="false"
+        android:layout_margin="@dimen/marge_gran"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="5dp"
+        app:cardPreventCornerOverlap="false">
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="true">
+            <ImageView
+                android:id="@+id/recepta_imatge"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_alignParentTop="true"
+                android:scaleType="centerCrop"
+                android:layout_marginBottom="@dimen/marge_gran"
+                tools:ignore="ContentDescription"/>
+    
+            <TextView
+                android:id="@+id/recepta_titol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="@dimen/text_titol"
+                android:layout_below="@id/recepta_imatge"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="@dimen/marge_gran"
+                android:layout_marginEnd="@dimen/marge_gran"
+                android:layout_marginBottom="@dimen/marge_gran" />
+    
+            <ImageView
+                android:id="@+id/recepta_star1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_star_empty"
+                android:layout_below="@id/recepta_titol"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="@dimen/marge_gran"
+                android:contentDescription="@string/star1description" />
+    
+            <ImageView
+                android:id="@+id/recepta_star2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_star_empty"
+                android:layout_below="@id/recepta_titol"
+                android:layout_toEndOf="@id/recepta_star1"
+                android:contentDescription="@string/star2description"/>
+    
+            <ImageView
+                android:id="@+id/recepta_star3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_star_empty"
+                android:layout_below="@id/recepta_titol"
+                android:layout_toEndOf="@id/recepta_star2"
+                android:contentDescription="@string/star3description"/>
+    
+            <ImageView
+                android:id="@+id/recepta_star4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_star_empty"
+                android:layout_below="@id/recepta_titol"
+                android:layout_toEndOf="@id/recepta_star3"
+                android:contentDescription="@string/star4description"/>
+    
+            <ImageView
+                android:id="@+id/recepta_star5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_star_empty"
+                android:layout_below="@id/recepta_titol"
+                android:layout_toEndOf="@id/recepta_star4"
+                android:contentDescription="@string/star5description"/>
+    
+            <ImageView
+                android:id="@+id/recepta_icon_calendar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_calendari_disabled"
+                android:layout_marginEnd="5dp"
+                android:layout_below="@id/recepta_titol"
+                android:layout_toStartOf="@id/recepta_icon_cart"
+                android:contentDescription="@string/recepta_a_menu" />
+    
+            <ImageView
+                android:id="@+id/recepta_icon_cart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_cart_disabled"
+                android:layout_marginEnd="5dp"
+                android:layout_below="@id/recepta_titol"
+                android:layout_toStartOf="@id/recepta_icon_bookmark"
+                android:contentDescription="@string/llista_compra" />
+            <ImageView
+                android:id="@+id/recepta_icon_bookmark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_bookmark_empty"
+                android:layout_below="@id/recepta_titol"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="@dimen/marge_gran"
+                android:contentDescription="@string/recepta_preferida" />
+    
+            <TextView
+                android:id="@+id/recepta_temps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@id/recepta_icon_calendar"
+                android:layout_below="@id/recepta_icon_calendar"
+                android:textStyle="bold"
+                android:layout_marginEnd="5dp"
+                android:layout_marginTop="10dp"
+                android:drawableStart="@drawable/ic_temps"
+                android:gravity="center" />
+            <TextView
+                android:id="@+id/recepta_persones"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_persones"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/recepta_icon_calendar"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="@dimen/marge_gran"
+                android:layout_marginBottom="@dimen/marge_gran"
+                />
+            <TextView
+                android:id="@+id/recepta_dificultat_titol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="@string/dificultat"
+                android:gravity="center"
+                android:layout_alignBaseline="@id/recepta_temps"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="@dimen/marge_gran"
+                />
+            <TextView
+                android:id="@+id/recepta_dificultat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/md_blue_900"
+                android:layout_marginStart="5dp"
+                android:gravity="center"
+                android:layout_alignBaseline="@id/recepta_dificultat_titol"
+                android:layout_toEndOf="@id/recepta_dificultat_titol" />
+            <TextView
+                android:id="@+id/recepta_categoria_titol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/categoria"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginStart="@dimen/marge_gran"
+                android:layout_below="@id/recepta_dificultat_titol"
+                android:layout_alignParentStart="true" />
+            <TextView
+                android:id="@+id/recepta_categoria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginStart="@dimen/marge_petit"
+                android:layout_below="@id/recepta_dificultat_titol"
+                android:layout_toEndOf="@id/recepta_categoria_titol" />
+            <TextView
+                android:id="@+id/recepta_temporalitat_titol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/temporalitat"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginStart="@dimen/marge_gran"
+                android:layout_below="@id/recepta_categoria_titol"
+                android:layout_alignParentStart="true" />
+            <TextView
+                android:id="@+id/recepta_temporalitat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="75%"
+                android:layout_marginStart="@dimen/marge_petit"
+                android:layout_below="@id/recepta_categoria_titol"
+                android:layout_toEndOf="@id/recepta_temporalitat_titol" />
+            <TextView
+                android:id="@+id/recepta_descripcio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/marge_gran"
+                android:ellipsize="end"
+                android:layout_below="@id/recepta_temporalitat_titol"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+</android.support.v7.widget.CardView>

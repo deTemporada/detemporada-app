@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="0px"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginBottom="1dp"
+    xmlns:tools="http://schemas.android.com/tools">
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/marge_gran"
+        android:paddingEnd="@dimen/marge_gran"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:clickable="false"
+        android:focusable="false"
+        >
+
+        <ImageView
+            android:id="@+id/generic_list_element_imatge"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            tools:ignore="ContentDescription"
+            android:clickable="false"
+            android:focusable="false"/>
+
+        <TextView
+            android:id="@+id/generic_list_element_nom"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="@dimen/marge_gran"
+            android:layout_marginEnd="@dimen/marge_gran"
+            android:layout_toEndOf="@+id/generic_list_element_imatge"
+            android:layout_toStartOf="@id/generic_list_element_extra"
+            android:gravity="center|start"
+            android:scrollHorizontally="false"
+            android:clickable="false"
+            android:focusable="false"/>
+
+        <TextView
+            android:id="@+id/generic_list_element_extra"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_toStartOf="@id/generic_list_element_checkbox"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:clickable="false"
+            android:focusable="false"/>
+
+        <android.support.v7.widget.AppCompatCheckBox
+            android:id="@+id/generic_list_element_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:clickable="true"
+            android:focusable="true"/>
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

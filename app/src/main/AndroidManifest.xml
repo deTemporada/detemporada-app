@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.orm.SugarApp"
+    package="cat.detemporada">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.orm.SugarApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+
+        <!-- Meta data SugarORM -->
+        <meta-data
+            android:name="DATABASE"
+            android:value="detemporada.db" />
+        <meta-data
+            android:name="VERSION"
+            android:value="1" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="false" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="cat.detemporada.models" />
+
+        <activity
+            android:name=".activities.SplashActivity"
+            android:theme="@style/SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.MenuSetmanalActivity"
+            android:label="@string/menu_setmanal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.RebostActivity"
+            android:label="@string/rebost"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.LlistaCompraActivity"
+            android:label="@string/llista_compra"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.AfegirEditarItemLlistaActivity"
+            android:label="@string/tria_producte"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.ProducteActivity"
+            android:label="@string/producte"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.ReceptaActivity"
+            android:label="@string/recepta"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.MevesReceptesActivity"
+            android:label="@string/meves_receptes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.ExploraActivity"
+            android:label="@string/explora"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.AfegirEditarReceptaActivity"
+            android:label="@string/afegir_recepta"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.AfegirEditarIngredientActivity"
+            android:label="@string/tria_producte"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.AfegirEditarPasReceptaActivity"
+            android:label="@string/afegir_element"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="cat.detemporada.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

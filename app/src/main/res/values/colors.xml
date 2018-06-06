@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff78b985</color>
+    <color name="colorPrimaryDark">#ff569d64</color>
+    <color name="colorAccent">#ffFF4081</color>
+    <color name="colorBackgroundGray">#ffEEEEEE</color>
+    <color name="colorCheckboxHighlight">#ffCCCCCC</color>
+    <color name="colorFons">#fffafafa</color>
+
+
+    <color name="dificultatBaixa">#ff569d64</color>
+    <color name="dificultatMitjana">#ffffcc00</color>
+    <color name="dificultatAlta">#ffca614c</color>
+
+    <color name="blanc">#ffFFFFFF</color>
+    <color name="negre">#ff000000</color>
+
+    <color name="etiqueta_apat_text">#ff635f5f</color>
+    <color name="etiqueta_dinar">#ffa0d7ab</color>
+    <color name="etiqueta_sopar">#ffffe27a</color>
+</resources>
